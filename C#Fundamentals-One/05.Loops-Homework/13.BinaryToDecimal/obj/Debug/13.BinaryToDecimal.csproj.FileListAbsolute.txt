@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture6-Loops\Loops-Homework\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture6-Loops\Loops-Homework\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture6-Loops\Loops-Homework\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture6-Loops\Loops-Homework\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture6-Loops\Loops-Homework\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.pdb

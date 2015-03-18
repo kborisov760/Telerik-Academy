@@ -1,0 +1,6 @@
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb

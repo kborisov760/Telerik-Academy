@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.pdb

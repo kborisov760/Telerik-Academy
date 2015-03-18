@@ -1,0 +1,6 @@
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\03.PerimeterAndAreaCircle\bin\Debug\03.PerimeterAndAreaCircle.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\03.PerimeterAndAreaCircle\bin\Debug\03.PerimeterAndAreaCircle.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\03.PerimeterAndAreaCircle\bin\Debug\03.PerimeterAndAreaCircle.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\03.PerimeterAndAreaCircle\obj\Debug\03.PerimeterAndAreaCircle.csprojResolveAssemblyReference.cache
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\03.PerimeterAndAreaCircle\obj\Debug\03.PerimeterAndAreaCircle.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture4-ConsoleInputOutput\Input-Output-Homework\03.PerimeterAndAreaCircle\obj\Debug\03.PerimeterAndAreaCircle.pdb

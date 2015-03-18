@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\09.ExchangeValues\bin\Debug\09.ExchangeValues.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\09.ExchangeValues\bin\Debug\09.ExchangeValues.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\09.ExchangeValues\bin\Debug\09.ExchangeValues.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\09.ExchangeValues\obj\Debug\09.ExchangeValues.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\09.ExchangeValues\obj\Debug\09.ExchangeValues.pdb

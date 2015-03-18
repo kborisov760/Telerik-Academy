@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\14.PrintACSIITable\bin\Debug\14.PrintACSIITable.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\14.PrintACSIITable\bin\Debug\14.PrintACSIITable.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\14.PrintACSIITable\bin\Debug\14.PrintACSIITable.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\14.PrintACSIITable\obj\Debug\14.PrintACSIITable.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\14.PrintACSIITable\obj\Debug\14.PrintACSIITable.pdb

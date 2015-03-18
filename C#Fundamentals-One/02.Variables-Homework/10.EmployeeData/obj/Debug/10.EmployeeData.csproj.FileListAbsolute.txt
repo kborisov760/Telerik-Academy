@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

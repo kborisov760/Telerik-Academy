@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.exe
+D:\Telerik Software Academy\02.Season 2014-2015\01.C# Fundamentals Part 1\Lecture2-DataTypes-Variables\Variables-Homework\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 1\GSM-Class-Homework\DefiningClasses-FirstHomework\GsmTestingApplication\bin\Debug\GsmTestingApplication.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 1\GSM-Class-Homework\DefiningClasses-FirstHomework\GsmTestingApplication\bin\Debug\GsmTestingApplication.exe
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 1\GSM-Class-Homework\DefiningClasses-FirstHomework\GsmTestingApplication\bin\Debug\GsmTestingApplication.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 1\GSM-Class-Homework\DefiningClasses-FirstHomework\GsmTestingApplication\obj\Debug\GsmTestingApplication.exe
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 1\GSM-Class-Homework\DefiningClasses-FirstHomework\GsmTestingApplication\obj\Debug\GsmTestingApplication.pdb

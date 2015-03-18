@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\10.FindSumInArray\bin\Debug\10.FindSumInArray.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\10.FindSumInArray\bin\Debug\10.FindSumInArray.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\10.FindSumInArray\bin\Debug\10.FindSumInArray.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\10.FindSumInArray\obj\Debug\10.FindSumInArray.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\10.FindSumInArray\obj\Debug\10.FindSumInArray.pdb

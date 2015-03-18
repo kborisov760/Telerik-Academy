@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\11.FormatNumber\bin\Debug\11.FormatNumber.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\11.FormatNumber\bin\Debug\11.FormatNumber.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\11.FormatNumber\bin\Debug\11.FormatNumber.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\11.FormatNumber\obj\Debug\11.FormatNumber.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\11.FormatNumber\obj\Debug\11.FormatNumber.pdb

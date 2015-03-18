@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\15.ReplaceTags\bin\Debug\15.ReplaceTags.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\15.ReplaceTags\obj\Debug\15.ReplaceTags.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\15.ReplaceTags\obj\Debug\15.ReplaceTags.pdb

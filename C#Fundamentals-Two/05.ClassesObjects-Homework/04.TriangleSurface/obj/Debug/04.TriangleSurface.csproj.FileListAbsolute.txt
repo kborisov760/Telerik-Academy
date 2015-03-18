@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 5\ClassesObjects-Homework\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 5\ClassesObjects-Homework\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 5\ClassesObjects-Homework\04.TriangleSurface\bin\Debug\04.TriangleSurface.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 5\ClassesObjects-Homework\04.TriangleSurface\obj\Debug\04.TriangleSurface.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 5\ClassesObjects-Homework\04.TriangleSurface\obj\Debug\04.TriangleSurface.pdb

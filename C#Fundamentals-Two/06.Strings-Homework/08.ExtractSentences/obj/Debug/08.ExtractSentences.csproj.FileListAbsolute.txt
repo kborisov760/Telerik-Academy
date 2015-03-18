@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\08.ExtractSentences\bin\Debug\08.ExtractSentences.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\08.ExtractSentences\bin\Debug\08.ExtractSentences.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\08.ExtractSentences\bin\Debug\08.ExtractSentences.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\08.ExtractSentences\obj\Debug\08.ExtractSentences.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\08.ExtractSentences\obj\Debug\08.ExtractSentences.pdb

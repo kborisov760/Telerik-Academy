@@ -1,0 +1,6 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\03.CompareCharArray\bin\Debug\03.CompareCharArray.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\03.CompareCharArray\bin\Debug\03.CompareCharArray.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\03.CompareCharArray\bin\Debug\03.CompareCharArray.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\03.CompareCharArray\obj\Debug\03.CompareCharArray.csprojResolveAssemblyReference.cache
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\03.CompareCharArray\obj\Debug\03.CompareCharArray.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\03.CompareCharArray\obj\Debug\03.CompareCharArray.pdb

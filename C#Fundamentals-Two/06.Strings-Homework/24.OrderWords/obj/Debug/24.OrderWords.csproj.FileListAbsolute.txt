@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\24.OrderWords\bin\Debug\24.OrderWords.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\24.OrderWords\bin\Debug\24.OrderWords.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\24.OrderWords\bin\Debug\24.OrderWords.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\24.OrderWords\obj\Debug\24.OrderWords.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\24.OrderWords\obj\Debug\24.OrderWords.pdb

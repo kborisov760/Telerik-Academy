@@ -1,0 +1,6 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.csprojResolveAssemblyReference.cache
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.pdb

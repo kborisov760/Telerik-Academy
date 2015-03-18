@@ -1,0 +1,6 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 7\ExceptionHandling-Homework\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 7\ExceptionHandling-Homework\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 7\ExceptionHandling-Homework\02.EnterNumbers\bin\Debug\02.EnterNumbers.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 7\ExceptionHandling-Homework\02.EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 7\ExceptionHandling-Homework\02.EnterNumbers\obj\Debug\02.EnterNumbers.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 7\ExceptionHandling-Homework\02.EnterNumbers\obj\Debug\02.EnterNumbers.pdb

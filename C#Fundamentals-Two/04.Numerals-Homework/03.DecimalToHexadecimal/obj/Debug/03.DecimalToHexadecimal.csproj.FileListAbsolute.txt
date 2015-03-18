@@ -1,0 +1,6 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\03.DecimalToHexadecimal\bin\Debug\03.DecimalToHexadecimal.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\03.DecimalToHexadecimal\bin\Debug\03.DecimalToHexadecimal.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\03.DecimalToHexadecimal\bin\Debug\03.DecimalToHexadecimal.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\03.DecimalToHexadecimal\obj\Debug\03.DecimalToHexadecimal.csprojResolveAssemblyReference.cache
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\03.DecimalToHexadecimal\obj\Debug\03.DecimalToHexadecimal.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\03.DecimalToHexadecimal\obj\Debug\03.DecimalToHexadecimal.pdb

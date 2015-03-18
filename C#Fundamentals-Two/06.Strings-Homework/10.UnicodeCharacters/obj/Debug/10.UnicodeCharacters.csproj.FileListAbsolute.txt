@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.pdb

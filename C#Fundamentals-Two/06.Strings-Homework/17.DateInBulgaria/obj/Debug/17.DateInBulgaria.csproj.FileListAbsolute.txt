@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\17.DateInBulgaria\bin\Debug\17.DateInBulgaria.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\17.DateInBulgaria\bin\Debug\17.DateInBulgaria.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\17.DateInBulgaria\bin\Debug\17.DateInBulgaria.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\17.DateInBulgaria\obj\Debug\17.DateInBulgaria.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\17.DateInBulgaria\obj\Debug\17.DateInBulgaria.pdb

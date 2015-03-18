@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\09.FrequentNumber\bin\Debug\09.FrequentNumber.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\09.FrequentNumber\bin\Debug\09.FrequentNumber.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\09.FrequentNumber\bin\Debug\09.FrequentNumber.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\09.FrequentNumber\obj\Debug\09.FrequentNumber.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\09.FrequentNumber\obj\Debug\09.FrequentNumber.pdb

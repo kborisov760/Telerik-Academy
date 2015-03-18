@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\05.MaxIncrSequence\bin\Debug\05.MaxIncrSequence.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\05.MaxIncrSequence\bin\Debug\05.MaxIncrSequence.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\05.MaxIncrSequence\bin\Debug\05.MaxIncrSequence.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\05.MaxIncrSequence\obj\Debug\05.MaxIncrSequence.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\05.MaxIncrSequence\obj\Debug\05.MaxIncrSequence.pdb

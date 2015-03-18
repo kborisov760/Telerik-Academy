@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.pdb

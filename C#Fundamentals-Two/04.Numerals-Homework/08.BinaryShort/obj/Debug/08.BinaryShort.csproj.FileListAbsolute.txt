@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\08.BinaryShort\bin\Debug\08.BinaryShort.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\08.BinaryShort\bin\Debug\08.BinaryShort.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\08.BinaryShort\bin\Debug\08.BinaryShort.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\08.BinaryShort\obj\Debug\08.BinaryShort.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\08.BinaryShort\obj\Debug\08.BinaryShort.pdb

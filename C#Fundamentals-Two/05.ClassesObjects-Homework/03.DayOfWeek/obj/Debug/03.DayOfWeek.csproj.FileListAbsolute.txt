@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 5\ClassesObjects-Homework\03.DayOfWeek\bin\Debug\03.DayOfWeek.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 5\ClassesObjects-Homework\03.DayOfWeek\bin\Debug\03.DayOfWeek.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 5\ClassesObjects-Homework\03.DayOfWeek\bin\Debug\03.DayOfWeek.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 5\ClassesObjects-Homework\03.DayOfWeek\obj\Debug\03.DayOfWeek.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 5\ClassesObjects-Homework\03.DayOfWeek\obj\Debug\03.DayOfWeek.pdb

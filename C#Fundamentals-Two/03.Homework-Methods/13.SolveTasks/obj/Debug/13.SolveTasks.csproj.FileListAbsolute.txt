@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\13.SolveTasks\bin\Debug\13.SolveTasks.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\13.SolveTasks\bin\Debug\13.SolveTasks.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\13.SolveTasks\bin\Debug\13.SolveTasks.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\13.SolveTasks\obj\Debug\13.SolveTasks.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\13.SolveTasks\obj\Debug\13.SolveTasks.pdb

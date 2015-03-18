@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\25.ExtractTextFromHTML\obj\Debug\25.ExtractTextFromHTML.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\25.ExtractTextFromHTML\obj\Debug\25.ExtractTextFromHTML.pdb

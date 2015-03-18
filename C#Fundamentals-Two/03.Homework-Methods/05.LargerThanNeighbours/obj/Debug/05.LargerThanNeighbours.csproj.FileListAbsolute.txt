@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\05.LargerThanNeighbours\obj\Debug\05.LargerThanNeighbours.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\05.LargerThanNeighbours\obj\Debug\05.LargerThanNeighbours.pdb

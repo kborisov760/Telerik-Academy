@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\06.MaximalKSum\bin\Debug\06.MaximalKSum.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\06.MaximalKSum\bin\Debug\06.MaximalKSum.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\06.MaximalKSum\bin\Debug\06.MaximalKSum.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\06.MaximalKSum\obj\Debug\06.MaximalKSum.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\06.MaximalKSum\obj\Debug\06.MaximalKSum.pdb

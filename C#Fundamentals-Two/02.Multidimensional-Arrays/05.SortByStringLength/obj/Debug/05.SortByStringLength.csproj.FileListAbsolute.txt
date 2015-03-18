@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 2\Multidimensional-Arrays\05.SortByStringLength\bin\Debug\05.SortByStringLength.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 2\Multidimensional-Arrays\05.SortByStringLength\bin\Debug\05.SortByStringLength.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 2\Multidimensional-Arrays\05.SortByStringLength\bin\Debug\05.SortByStringLength.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 2\Multidimensional-Arrays\05.SortByStringLength\obj\Debug\05.SortByStringLength.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 2\Multidimensional-Arrays\05.SortByStringLength\obj\Debug\05.SortByStringLength.pdb

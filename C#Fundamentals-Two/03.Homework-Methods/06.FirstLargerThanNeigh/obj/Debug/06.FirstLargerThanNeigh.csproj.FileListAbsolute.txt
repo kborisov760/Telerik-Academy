@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\06.FirstLargerThanNeigh\bin\Debug\06.FirstLargerThanNeigh.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\06.FirstLargerThanNeigh\bin\Debug\06.FirstLargerThanNeigh.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\06.FirstLargerThanNeigh\bin\Debug\06.FirstLargerThanNeigh.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\06.FirstLargerThanNeigh\obj\Debug\06.FirstLargerThanNeigh.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\06.FirstLargerThanNeigh\obj\Debug\06.FirstLargerThanNeigh.pdb

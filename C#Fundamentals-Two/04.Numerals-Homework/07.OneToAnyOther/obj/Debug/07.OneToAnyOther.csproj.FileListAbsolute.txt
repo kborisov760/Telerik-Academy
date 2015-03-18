@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\07.OneToAnyOther\bin\Debug\07.OneToAnyOther.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\07.OneToAnyOther\bin\Debug\07.OneToAnyOther.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\07.OneToAnyOther\bin\Debug\07.OneToAnyOther.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\07.OneToAnyOther\obj\Debug\07.OneToAnyOther.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\07.OneToAnyOther\obj\Debug\07.OneToAnyOther.pdb

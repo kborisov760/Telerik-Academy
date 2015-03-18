@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.pdb

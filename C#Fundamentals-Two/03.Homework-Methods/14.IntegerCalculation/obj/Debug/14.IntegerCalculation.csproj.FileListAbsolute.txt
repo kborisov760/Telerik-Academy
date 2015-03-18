@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\14.IntegerCalculation\bin\Debug\14.IntegerCalculation.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\14.IntegerCalculation\bin\Debug\14.IntegerCalculation.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\14.IntegerCalculation\bin\Debug\14.IntegerCalculation.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\14.IntegerCalculation\obj\Debug\14.IntegerCalculation.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\14.IntegerCalculation\obj\Debug\14.IntegerCalculation.pdb

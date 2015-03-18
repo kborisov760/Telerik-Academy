@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 4\Numerals-Homework\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.pdb

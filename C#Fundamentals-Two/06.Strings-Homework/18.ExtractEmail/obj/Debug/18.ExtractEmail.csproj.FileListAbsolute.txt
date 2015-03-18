@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\18.ExtractEmail\bin\Debug\18.ExtractEmail.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\18.ExtractEmail\bin\Debug\18.ExtractEmail.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\18.ExtractEmail\bin\Debug\18.ExtractEmail.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\18.ExtractEmail\obj\Debug\18.ExtractEmail.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\18.ExtractEmail\obj\Debug\18.ExtractEmail.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\09.ForbiddenWords\obj\Debug\09.ForbiddenWords.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\09.ForbiddenWords\obj\Debug\09.ForbiddenWords.pdb

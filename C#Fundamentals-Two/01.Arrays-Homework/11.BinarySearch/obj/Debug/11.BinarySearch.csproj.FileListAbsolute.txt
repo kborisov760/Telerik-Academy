@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\11.BinarySearch\bin\Debug\11.BinarySearch.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\11.BinarySearch\bin\Debug\11.BinarySearch.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\11.BinarySearch\obj\Debug\11.BinarySearch.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 1\Arrays-Homework\11.BinarySearch\obj\Debug\11.BinarySearch.pdb

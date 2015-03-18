@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\19.DatesFromTextInCanada\obj\Debug\19.DatesFromTextInCanada.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 6\Strings-Homework\19.DatesFromTextInCanada\obj\Debug\19.DatesFromTextInCanada.pdb

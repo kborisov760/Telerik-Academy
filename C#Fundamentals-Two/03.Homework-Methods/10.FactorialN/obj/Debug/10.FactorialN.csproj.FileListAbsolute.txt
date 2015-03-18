@@ -1,0 +1,6 @@
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\10.FactorialN\bin\Debug\10.FactorialN.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\10.FactorialN\bin\Debug\10.FactorialN.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\10.FactorialN\bin\Debug\10.FactorialN.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\10.FactorialN\obj\Debug\10.FactorialN.csprojResolveAssemblyReference.cache
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\10.FactorialN\obj\Debug\10.FactorialN.exe
+D:\Telerik Software Academy\02.Season 2014-2015\02.C# Part 2\Lecture 3\Homework-Methods\10.FactorialN\obj\Debug\10.FactorialN.pdb

@@ -1,0 +1,6 @@
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 3\ExtensionMethods-Homework\01.StringBuilder.Substring\bin\Debug\01.StringBuilder.Substring.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 3\ExtensionMethods-Homework\01.StringBuilder.Substring\bin\Debug\01.StringBuilder.Substring.exe
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 3\ExtensionMethods-Homework\01.StringBuilder.Substring\bin\Debug\01.StringBuilder.Substring.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 3\ExtensionMethods-Homework\01.StringBuilder.Substring\obj\Debug\01.StringBuilder.Substring.csprojResolveAssemblyReference.cache
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 3\ExtensionMethods-Homework\01.StringBuilder.Substring\obj\Debug\01.StringBuilder.Substring.exe
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 3\ExtensionMethods-Homework\01.StringBuilder.Substring\obj\Debug\01.StringBuilder.Substring.pdb

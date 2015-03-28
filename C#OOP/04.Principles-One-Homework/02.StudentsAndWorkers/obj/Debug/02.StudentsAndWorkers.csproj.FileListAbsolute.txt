@@ -1,0 +1,6 @@
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 4\Principles-One-Homework\02.StudentsAndWorkers\bin\Debug\02.StudentsAndWorkers.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 4\Principles-One-Homework\02.StudentsAndWorkers\bin\Debug\02.StudentsAndWorkers.exe
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 4\Principles-One-Homework\02.StudentsAndWorkers\bin\Debug\02.StudentsAndWorkers.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 4\Principles-One-Homework\02.StudentsAndWorkers\obj\Debug\02.StudentsAndWorkers.csprojResolveAssemblyReference.cache
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 4\Principles-One-Homework\02.StudentsAndWorkers\obj\Debug\02.StudentsAndWorkers.exe
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 4\Principles-One-Homework\02.StudentsAndWorkers\obj\Debug\02.StudentsAndWorkers.pdb

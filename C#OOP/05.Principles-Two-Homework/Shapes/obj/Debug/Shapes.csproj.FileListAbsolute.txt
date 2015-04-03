@@ -1,0 +1,6 @@
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 5\Principles-Two-Homework\Shapes\bin\Debug\Shapes.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 5\Principles-Two-Homework\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 5\Principles-Two-Homework\Shapes\bin\Debug\Shapes.exe
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 5\Principles-Two-Homework\Shapes\bin\Debug\Shapes.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 5\Principles-Two-Homework\Shapes\obj\Debug\Shapes.exe
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 5\Principles-Two-Homework\Shapes\obj\Debug\Shapes.pdb

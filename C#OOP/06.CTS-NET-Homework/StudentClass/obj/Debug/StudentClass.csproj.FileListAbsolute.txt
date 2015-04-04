@@ -1,0 +1,5 @@
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 6\CTS-NET-Homework\StudentClass\bin\Debug\StudentClass.exe.config
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 6\CTS-NET-Homework\StudentClass\bin\Debug\StudentClass.exe
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 6\CTS-NET-Homework\StudentClass\bin\Debug\StudentClass.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 6\CTS-NET-Homework\StudentClass\obj\Debug\StudentClass.exe
+D:\Telerik Software Academy\02.Season 2014-2015\03. C# OOP\Lecture 6\CTS-NET-Homework\StudentClass\obj\Debug\StudentClass.pdb

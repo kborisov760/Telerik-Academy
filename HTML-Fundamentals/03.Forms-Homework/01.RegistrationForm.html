@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration form</title>
+    <style>
+        .registration-form{
+            width: 450px;
+        }
+
+        #country, #city, #birth-date{
+            width: 150px;
+        }
+        
+        label{
+            align-content: center;
+        }
+
+        #fName, #lName, #email{
+            width: 240px;
+
+        }
+
+        #address{
+            width: 220px;
+            height: 70px;
+        }
+
+        #commnets{
+            width: 220px;
+            height: 100px;
+        }
+
+        #state, #zip, .country-code, .number-one, #gender{
+            width: 60px;
+        }
+
+        .number-two{
+            width: 80px;
+        }
+
+        #button-row{
+            background-color: deepskyblue;
+        }
+    </style>
+</head>
+<body>
+<form name="Registration form" class="registration-form" action="post">
+    <fieldset>
+        <legend>Registration</legend>
+    <table class="table">
+        <tr>
+            <td><label for="fName"><strong>First name</strong></label></td>
+            <td><input type="text" id="fName" name="FirstName"/></td>
+        </tr>
+        <tr>
+            <td><label for="lName"><strong>Last name</strong></label></td>
+            <td><input type="text" id="lName" name="LastName"/></td>
+        </tr>
+        <tr>
+            <td><label for="address"><strong>Address</strong></label></td>
+            <td><textarea name="Address" id="address"></textarea></td>
+        </tr>
+        <tr>
+            <td><label for="city"><strong>City</strong></label></td>
+            <td>
+                <input type="text" id="city" name="City">
+                <label for="state">State</label>
+                <input type="text" id="state" name="State">
+            </td>
+        </tr>
+        <tr>
+            <td><label for="zip"><strong>Zip/Postal Code</strong></label></td>
+            <td><input type="text" name="Zip" id="zip"></textarea></td>
+        </tr>
+        <tr>
+            <td><label for="country"><strong>Country</strong></label></td>
+            <td>
+                <select name="Country" id="country">
+                    <option>Bulgaria</option>
+                    <option>Germany</option>
+                    <option>UK</option>
+                    <option>Spain</option>
+                    <option>France</option>
+                    <option>Italy</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td><label for="phone"><strong>Phone(country code, <br/>area code, number)</strong></label></td>
+            <td>(+<input type="text" id="phone" class="country-code">)<input type="text" class="number-one"> <input type="text" class="number-two"></td>
+        </tr>
+        <tr>
+            <td><label for="email"><strong>Email</strong></label></td>
+            <td><input type="text" id="email" name="Email"/></td>
+        </tr>
+        <tr>
+            <td><label for="birth-date"><strong>Birth date</strong></label></td>
+            <td><input type="text" id="birth-date" name="Birth-date"/></td>
+        </tr>
+        <tr>
+            <td><label for="gender"><strong>Gender</strong></label></td>
+            <td>
+                <select name="Gender" id="gender">
+                    <option>Male</option>
+                    <option>Female</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td><label><strong>Starting date</strong></label></td>
+            <td>
+                <input type="radio" id="spring-15" name="starting-date" value="spring"> <label for="spring-15">Spring 2015</label>
+                <input type="radio" id="summer-15" name="starting-date" value="summer"> <label for="summer-15">Summer 2015</label>
+            </td>
+        </tr>
+        <tr>
+            <td><label for="comments"><strong>Comments/Questions</strong></label></td>
+            <td><textarea name="Comments" id="comments"></textarea></td>
+        </tr>
+        <tr id="button-row">
+            <td colspan="2" align="center">
+                <input type="submit" value="Submit"/>
+                <input type="reset" value="Clear This Form"/>
+            </td>
+        </tr>
+    </table>
+    </fieldset>
+</form>
+</body>
+</html>

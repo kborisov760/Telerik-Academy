@@ -1,0 +1,46 @@
+.information{
+    font-style: italic;
+    font-size: 11px;
+    color: #B4BFC5;
+}
+
+body{
+    background-color: #585858;
+}
+
+table{
+    border-spacing: 10px;
+    font-family: arial;
+    font-size: 11px;
+}
+
+#ticket-number{
+    text-align: left;
+    color: #B5A795;
+    font-style: normal;
+    font-size: 16px;
+}
+
+#name, #email{
+    font-size: 11px;
+    color: white;
+    font-family: arial;
+}
+
+#support{
+    color:red;
+}
+
+#answer{
+    color: orange;
+}
+
+.blue{
+    color: #CCE6FF;
+}
+
+.link{
+    color: white;
+    position: relative;
+    left: 43%;
+}

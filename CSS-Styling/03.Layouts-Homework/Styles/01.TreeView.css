@@ -1,0 +1,18 @@
+ul{
+    list-style: none;
+    display: block;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+body>header>nav>ul>li>ul{
+    display: none;
+}
+
+body>header>nav>ul>li:hover ul{
+    display: block;
+    color: darkgray;
+    margin-right: 5px;
+}

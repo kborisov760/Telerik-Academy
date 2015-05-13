@@ -1,0 +1,41 @@
+.left
+{
+    float: left;
+    width: 30%;
+    height: 450px;
+    margin: 20px 0 0 20px;
+    border: 1px solid #004202;
+    border-radius: 10px;
+    overflow-y: scroll;
+}
+
+.preview li
+{
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    list-style-type: none;
+}
+
+.li > .photo
+{
+    display: none;
+}
+
+.li1
+{
+    background: url("images/Sample01.jpg");
+    background-size: 100% 100%;
+}
+
+.li1:hover > .photo
+{
+    display: block;
+    position: fixed;
+    top: 20%;
+    right: 15%;
+    background: url("images/Sample01.jpg");
+    width: 500px;
+    height: 500px;
+    z-index: 1;
+}

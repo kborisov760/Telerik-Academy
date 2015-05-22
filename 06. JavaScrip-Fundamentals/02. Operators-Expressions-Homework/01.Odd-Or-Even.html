@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 1</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 1. Odd or even");
+    jsConsole.writeLine("-----------");
+    jsConsole.write("Odd? --> ");
+
+    var input = prompt("Enter number:");
+    var parsedNumber = parseInt(input);
+
+    jsConsole.writeLine(parsedNumber % 2 === 0 ? false:true);
+
+</script>
+</body>
+</html>

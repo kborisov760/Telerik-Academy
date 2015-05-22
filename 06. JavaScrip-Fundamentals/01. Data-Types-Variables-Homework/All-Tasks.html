@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data types and variables</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+    jsConsole.writeLine("------------------------------");
+    jsConsole.writeLine("Problem 1. JavaScript literals");
+    jsConsole.writeLine("-------------");
+
+    var minNumber = Number.MIN_VALUE;
+    jsConsole.writeLine("Number min value: " + minNumber);
+    var maxNumber = Number.MAX_VALUE;
+    jsConsole.writeLine("Number max value: " + maxNumber);
+    var stringValue = "this is string";
+    jsConsole.writeLine("String value: " + stringValue);
+    var boolValue = false;
+    jsConsole.writeLine("Boolean value: " + boolValue);
+    var objectValue = new Object();
+    jsConsole.writeLine("Object value: " + objectValue);
+    var undefinedValue;
+    jsConsole.writeLine("Undefined value: " + undefinedValue);
+    var nullValue = null;
+    jsConsole.writeLine("Null value: " + nullValue);
+
+    jsConsole.writeLine("------------------------------");
+    jsConsole.writeLine("Problem 2. Quoted text");
+    jsConsole.writeLine("-------------");
+
+    var quotedText = "\"How you doin?\", Joey said.";
+    jsConsole.writeLine(quotedText);
+
+    jsConsole.writeLine("------------------------------");
+    jsConsole.writeLine("Problem 3. Type of variables (Includes Problem 4.)");
+    jsConsole.writeLine("-------------");
+    jsConsole.writeLine("Type of \'minNumber\': " + typeof(minNumber));
+    jsConsole.writeLine("Type of \'maxNumber\': " + typeof(maxNumber));
+    jsConsole.writeLine("Type of \'stringValue\': " + typeof(stringValue));
+    jsConsole.writeLine("Type of \'boolValue\': " + typeof(boolValue));
+    jsConsole.writeLine("Type of \'objectValue\': " + typeof(objectValue));
+    jsConsole.writeLine("Type of \'undefinedValue\': " + typeof(undefinedValue));
+    jsConsole.writeLine("Type of \'nullValue\': " + typeof(nullValue));
+
+    jsConsole.writeLine("------------------------------");
+</script>
+</body>
+</html>

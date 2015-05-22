@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 5</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    function dec2Bin(dec){
+        return (dec >>> 0).toString(2);
+    }
+
+    jsConsole.writeLine("Problem 5. Third bit");
+    jsConsole.writeLine("-----------");
+    jsConsole.write("Third bit is? --> ");
+
+    var number = prompt("Enter number:");
+    var binary = dec2Bin(number);
+
+    jsConsole.writeLine(binary[binary.length - 4] === '1' ? 1: 0);
+
+</script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 2</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 2. Divisible  by 7 and 5");
+    jsConsole.writeLine("-----------");
+    jsConsole.write("Divisible by 7 and 5 at the same time? --> ");
+
+    var input = prompt("Enter number:");
+    var parsedNumber = parseInt(input);
+
+    jsConsole.writeLine(parsedNumber % 5 === 0 && parsedNumber % 7 === 0 ? true:false);
+
+</script>
+</body>
+</html>

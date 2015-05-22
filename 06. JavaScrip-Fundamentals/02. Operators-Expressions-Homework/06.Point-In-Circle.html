@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 6</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 6. Point in circle");
+    jsConsole.writeLine("-----------");
+    jsConsole.write("Point is in the circle? --> ");
+
+    var xCoord = prompt("Enter x coord:");
+    var yCoord = prompt("Enter y coord: ");
+
+    jsConsole.writeLine((xCoord * xCoord + yCoord * yCoord <= 5 * 5) ? "True" : "False");
+
+</script>
+</body>
+</html>

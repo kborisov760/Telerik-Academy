@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 4</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 4. Third digit");
+    jsConsole.writeLine("-----------");
+    jsConsole.write("Is third digit 7? --> ");
+
+    var number = prompt("Enter number:");
+
+    jsConsole.writeLine(parseInt(number[number.length - 3]) === 7 ? true: false);
+
+</script>
+</body>
+</html>

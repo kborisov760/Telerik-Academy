@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 7</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    function checkPrime(number)
+    {
+
+        if (number == 2 || number == 3 || number == 5 || number == 7)
+        {
+            return true;
+        }
+        if (number == 1)
+        {
+            return false;
+        }
+        if (number % 2  == 0 || number % 3 == 0 || number % 5 == 0 || number % 7 == 0)
+        {
+            return false;
+        }
+        else
+        {
+            return true;
+        }
+    }
+
+    jsConsole.writeLine("Problem 7. Is prime");
+    jsConsole.writeLine("-----------");
+    jsConsole.write("Is prime number? --> ");
+
+    var number = prompt("Enter number to check:");
+
+    jsConsole.writeLine(checkPrime(number));
+
+</script>
+</body>
+</html>

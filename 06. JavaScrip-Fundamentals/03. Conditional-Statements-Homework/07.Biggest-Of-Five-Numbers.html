@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 7</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 7. The biggest of five numbers");
+    jsConsole.writeLine("-----------");
+    jsConsole.write("Sorted numbers --> ");
+
+    var a = parseFloat(prompt("Enter number:")),
+        b = parseFloat(prompt("Enter number:")),
+        c = parseFloat(prompt("Enter number:")),
+        d = parseFloat(prompt("Enter number:")),
+        e = parseFloat(prompt("Enter number:"));
+
+    var biggest = Math.max();
+
+    if(a > biggest){
+        biggest = a;
+    }
+    if(b > biggest){
+        biggest = b;
+    }
+    if(c > biggest){
+        biggest = c;
+    }
+    if(d > biggest){
+        biggest = d;
+    }
+    if(e > biggest){
+        biggest = e;
+    }
+
+    jsConsole.writeLine(biggest);
+
+</script>
+</body>
+</html>

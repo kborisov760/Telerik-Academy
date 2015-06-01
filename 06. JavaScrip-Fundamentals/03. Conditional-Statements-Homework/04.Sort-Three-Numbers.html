@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 4</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 4. Sort 3 numbers");
+    jsConsole.writeLine("-----------");
+    jsConsole.write("Sorted numbers --> ");
+
+    var a = parseFloat(prompt("Enter number:")),
+        b = parseFloat(prompt("Enter number:")),
+        c = parseFloat(prompt("Enter number:"));
+
+    var sorted = [];
+
+    if (a >= b) {
+        if (b >= c) {
+            sorted.push(a, b, c);
+        } else if (c > a) {
+            sorted.push(c, a, b);
+        } else {
+            sorted.push(a, c, b);
+        }
+    } else {
+        if (b >= c) {
+            if (c >= a) {
+                sorted.push(b, c, a);
+            } else {
+                sorted.push(b, a, c);
+            }
+        } else {
+            sorted.push(c, b, a);
+        }
+    }
+
+    jsConsole.writeLine(sorted.join(' '));
+
+</script>
+</body>
+</html>

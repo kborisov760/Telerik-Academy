@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 2</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 2. Multiplication sign");
+    jsConsole.writeLine("-----------");
+    jsConsole.write("The sign is --> ");
+
+    var firstNumber = parseFloat(prompt("Enter number:"));
+    var secondNumber = parseFloat(prompt("Enter number:"));
+    var thirdNumber = parseFloat(prompt("Enter number:"));
+    var counter = 0;
+
+    if (firstNumber < 0) {
+        counter++;
+    }
+    if (secondNumber < 0) {
+        counter++;
+    }
+    if (thirdNumber < 0) {
+        counter++;
+    }
+
+    if(firstNumber == 0 || secondNumber == 0 || thirdNumber == 0)
+    {
+        jsConsole.writeLine("0");
+    }
+
+    else if(counter == 0 || counter == 2)
+    {
+        jsConsole.writeLine("+");
+    }
+
+    else
+    {
+        jsConsole.writeLine("-");
+    }
+
+</script>
+</body>
+</html>

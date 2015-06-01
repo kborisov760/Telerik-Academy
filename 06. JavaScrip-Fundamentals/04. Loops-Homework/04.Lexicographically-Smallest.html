@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 4</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 4. Lexicographically smallest");
+    jsConsole.writeLine("-----------");
+
+    var prop, list = [];
+
+    for (prop in document) {
+        list.push(prop);
+    }
+
+    jsConsole.writeLine('smallest element in document object is: ' + list.sort()[0] + '\nlargest element in document object is: ' + list.sort()[list.length - 1]);
+
+    for (prop in window) {
+        list.push(prop);
+    }
+
+    jsConsole.writeLine('smallest element in window object is: ' + list.sort()[0] + '\nlargest element in window object is: ' + list.sort()[list.length - 1]);
+
+    for (prop in navigator) {
+        list.push(prop);
+    }
+
+    jsConsole.writeLine('smallest element in navigator object is: ' + list.sort()[0] + '\nlargest element in navigator object is: ' + list.sort()[list.length - 1]);
+
+</script>
+</body>
+</html>

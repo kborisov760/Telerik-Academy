@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 3</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 3. Min/Max of sequence");
+    jsConsole.writeLine("-----------");
+
+    var numbers = prompt("Enter numbers separated by a space: ")
+    var arr = numbers.split(" ");
+
+    for (var i = 0; i < arr.length; i++) {
+        arr[i] = parseInt(arr[i]);
+    }
+
+    arr.sort(function (a, b) { return b - a });
+
+    jsConsole.writeLine("The smallest numbers in sequence is : " + arr[arr.length - 1]);
+    jsConsole.writeLine("The greatest numbers in sequence is : "  + arr[0]);
+
+</script>
+</body>
+</html>

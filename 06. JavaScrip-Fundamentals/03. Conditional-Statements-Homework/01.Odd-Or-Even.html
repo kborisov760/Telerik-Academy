@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 1</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 1. Exchange if greater");
+    jsConsole.writeLine("-----------");
+    jsConsole.write("Exchanged (if needed) --> ");
+
+    var firstNumber = parseInt(prompt("Enter number:"));
+    var secondNumber = parseInt(prompt("Enter number:"));
+    var areExchanged = false;
+
+    if(firstNumber > secondNumber)
+    {
+        var temp = firstNumber;
+        firstNumber = secondNumber;
+        secondNumber = temp;
+        areExchanged = true;
+    }
+
+    jsConsole.writeLine("First number: " + firstNumber + " Second number: " + secondNumber);
+    jsConsole.writeLine("Are the number exchanged? --> " + areExchanged);
+
+
+</script>
+</body>
+</html>

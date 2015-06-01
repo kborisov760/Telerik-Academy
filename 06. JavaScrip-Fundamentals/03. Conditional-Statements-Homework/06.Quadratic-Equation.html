@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 6</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 6. Quadratic equation");
+    jsConsole.writeLine("-----------");
+
+    var a = parseFloat(prompt("Enter number:")),
+        b = parseFloat(prompt("Enter number:")),
+        c = parseFloat(prompt("Enter number:")),
+        x = 0;
+
+    var d = (b * b) - (4 * a * c);
+    var x1 = ((-b) + Math.sqrt(d)) / (2 * a);
+    var x2 = ((-b) - Math.sqrt(d)) / (2 * a);
+
+    if (d < 0)
+    {
+        jsConsole.writeLine("The equation doesn't have real roots.");
+    }
+
+    else if (d === 0)
+    {
+        x = (-b) / (2 * a);
+        jsConsole.writeLine("The equation has two equal roots x1 = x2 = " + Math.floor(x));
+    }
+
+    if (d > 0)
+    {
+        jsConsole.writeLine("x1 = " + Math.floor(x1));
+        jsConsole.writeLine("x2 = " + Math.floor(x2));
+    }
+
+</script>
+</body>
+</html>

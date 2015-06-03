@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 5</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 5. Selection sort");
+    jsConsole.writeLine("-----------");
+
+    var numbers = prompt("Enter numbers: "),
+            arr = numbers.split(","),
+            tmp,
+            tmp2;
+
+    jsConsole.writeLine("Elements order BEFORE sort: " + arr.join(' '));
+
+    for (var i = 0; i < arr.length - 1; i++) {
+        tmp = i;
+        for (var j = i + 1; j < arr.length; j++) {
+            if (arr[j] < arr[tmp]) {
+                tmp = j;
+            }
+        }
+        if (tmp != i) {
+            tmp2 = arr[tmp];
+            arr[tmp] = arr[i];
+            arr[i] = tmp2;
+        }
+    }
+
+    jsConsole.writeLine("Elements order AFTER sort: " + arr.join(' '));
+</script>
+</body>
+</html>

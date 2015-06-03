@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 3</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 3. Maximal sum");
+    jsConsole.writeLine("-----------");
+
+    var numbers = prompt("Enter numbers: "),
+    arr = numbers.split(","),
+    counter = 1,
+    maxCounter = 1,
+    maxElement = arr[0];
+
+    for (var i = 1; i < arr.length; i++) {
+        if (arr[i] === arr[i - 1]) {
+            counter++;
+            if (counter > maxCounter) {
+                maxCounter = counter;
+                maxElement = arr[i];
+            }
+
+        }
+        else {
+            counter = 1;
+        }
+    }
+    jsConsole.writeLine("The most frequently seen element is " + maxElement + " and we see it " + maxCounter + " times.");
+
+</script>
+</body>
+</html>

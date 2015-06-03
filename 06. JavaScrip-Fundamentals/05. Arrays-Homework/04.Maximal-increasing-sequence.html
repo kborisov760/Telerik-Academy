@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 4</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 4. Maximal increasing sequence");
+    jsConsole.writeLine("-----------");
+
+    var numbers = prompt("Enter numbers: "),
+    arr = numbers.split(","),
+    currentStartPos = 0,
+    maxStartPos = currentStartPos,
+    maxCount = 1,
+    counter = 1;
+
+    for (var i = 1; i < arr.length; i++) {
+        if (arr[i] > arr[i - 1]) {
+            counter++;
+            if (counter > maxCount) {
+                maxCount = counter;
+                maxStartPos = currentStartPos;
+            }
+        }
+        else {
+            counter = 1;
+            currentStartPos = i;
+        }
+    }
+    jsConsole.writeLine("The biggest sequence is from " + maxCount + " elements.");
+
+</script>
+</body>
+</html>

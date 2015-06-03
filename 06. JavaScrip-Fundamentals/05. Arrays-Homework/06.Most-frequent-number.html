@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 6</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 6. Most frequent number");
+    jsConsole.writeLine("-----------");
+
+    var numbers = prompt("Enter numbers: "),
+        arr = numbers.split(","),
+        counter = 1,
+        maxCounter = 1,
+        maxElement = arr[0];
+
+    arr.sort(function orderBy(a, b) {
+        return (a == b) ? 0 : (a > b) ? 1 : -1});
+
+    for (var i = 0; i < arr.length; i++) {
+        if (arr[i] === arr[i - 1]) {
+            counter++;
+            if (counter > maxCounter) {
+                maxCounter = counter;
+                maxElement = arr[i];
+            }
+        }
+        else {
+            counter = 1;
+        }
+    }
+    jsConsole.writeLine("The most frequent number is " + maxElement + " and it's " + maxCounter + " times in the array.");
+
+</script>
+</body>
+</html>

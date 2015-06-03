@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 1</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 1. Increase array members");
+    jsConsole.writeLine("-----------");
+
+    var arr = new Array(20),
+        arrCounter,
+        arrLen = arr.length;
+
+    for(arrCounter = 0; arrCounter < arrLen; arrCounter += 1)
+    {
+        arr.push(arrCounter * 5);
+    }
+
+    jsConsole.writeLine(arr.join(" "));
+
+</script>
+</body>
+</html>

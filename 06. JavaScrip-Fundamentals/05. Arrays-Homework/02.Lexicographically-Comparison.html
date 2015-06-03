@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 2</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 2. Lexicographically order");
+    jsConsole.writeLine("-----------");
+
+    var firstWord = prompt("Enter first word:");
+    var secondWord = prompt("Enter second word:");
+
+    var firstCharArr = firstWord.split(''),
+        secondCharArr = secondWord.split(''),
+        areSame;
+
+    if(firstCharArr.length != secondCharArr.length)
+    {
+        jsConsole.writeLine("Cannot compare char arrays with different length!")
+    }
+
+    else
+    {
+        for(var counter = 0; counter < firstCharArr.length; counter++)
+        {
+            if(firstCharArr[counter] !== secondCharArr[counter])
+            {
+                jsConsole.writeLine("Two char arrays are different!");
+                areSame = false;
+                break;
+            }
+            else
+            {
+                areSame = true;
+            }
+        }
+    }
+
+    if(areSame)
+    {
+        jsConsole.writeLine("Two char arrays are same!");
+    }
+
+</script>
+</body>
+</html>

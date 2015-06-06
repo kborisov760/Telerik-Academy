@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 2</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    function ReverseNumber(number){
+
+        return number.split("").reverse().join("");
+
+    }
+
+    jsConsole.writeLine("Problem 2. Reverse number");
+    jsConsole.writeLine("-----------");
+
+    var input = prompt("Enter number: ");
+
+    jsConsole.writeLine(ReverseNumber(input));
+
+</script>
+</body>
+</html>

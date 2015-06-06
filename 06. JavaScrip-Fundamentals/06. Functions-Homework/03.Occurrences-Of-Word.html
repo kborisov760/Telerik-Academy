@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 3</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    function WordOccurrences(text, word){
+
+        var pattern = new RegExp(word.toLowerCase(), 'g');
+        var counter = text.toLowerCase().match(pattern).length;
+
+        return counter;
+    }
+
+    jsConsole.writeLine("Problem 3. Occurrences of word");
+    jsConsole.writeLine("-----------");
+
+    var text = prompt("Enter text: "),
+        wordTemplate = prompt("Enter searched word: ");
+
+    jsConsole.writeLine("Text contains " + wordTemplate + " " + WordOccurrences(text, wordTemplate) + " time(s).");
+
+</script>
+</body>
+</html>

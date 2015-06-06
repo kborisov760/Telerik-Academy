@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 6</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 6. Larger than neighbours");
+    jsConsole.writeLine("-----------");
+
+    function CheckIfLargerThanNeighbours(numbers, position)
+    {
+        var numsToArray = numbers.split(" "),
+            pos = parseInt(position);
+
+        if(pos <= 0 || pos >= (numsToArray.length - 1))
+        {
+            return false;
+        }
+        else
+        {
+            if(numsToArray[pos] > numsToArray[pos + 1] && numsToArray[pos] > numsToArray[pos - 1])
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+    }
+
+    var numbers = prompt("Enter numbers separated with space: "),
+        position = prompt("Enter position to search for: ");
+
+    jsConsole.writeLine("Larger than neighbours? ---> " + CheckIfLargerThanNeighbours(numbers, position));
+
+</script>
+</body>
+</html>

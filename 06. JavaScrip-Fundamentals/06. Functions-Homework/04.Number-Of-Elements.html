@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 4</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+
+<hr/>
+<div>Div</div>
+<div>Div</div>
+<div>Div</div>
+<div>Div</div>
+<div>Div</div>
+<div>Div</div>
+<div>Div</div>
+<hr/>
+
+<script>
+
+    jsConsole.writeLine("Problem 4. Number of elements");
+    jsConsole.writeLine("-----------");
+
+    function countElements(type) {
+
+        var count = document.getElementsByTagName(type).length;
+        return count;
+    }
+
+    var tag = prompt("Enter tag to search: ");
+
+    jsConsole.writeLine( tag + ": " + (countElements(tag) - 1) + " time(s).");
+
+</script>
+
+</body>
+</html>

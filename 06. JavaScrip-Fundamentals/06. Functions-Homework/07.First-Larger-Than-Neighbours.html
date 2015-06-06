@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 7</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 7. First larger than neighbours");
+    jsConsole.writeLine("-----------");
+
+    function CheckFirstLargerThanNeighbours(numbers)
+    {
+        var numsToArray = numbers.split(" "),
+            arrCounter;
+
+        for(arrCounter = 1; arrCounter < (numsToArray.length - 1); arrCounter++)
+        {
+            if((numsToArray[arrCounter] > numsToArray[arrCounter - 1]) && (numsToArray[arrCounter] > numsToArray[arrCounter + 1]))
+            {
+                return  arrCounter;
+            }
+        }
+
+        return -1;
+    }
+
+    var numbers = prompt("Enter numbers separated with space: ");
+
+    jsConsole.writeLine("First larger than neighbours at index? ---> " + CheckFirstLargerThanNeighbours(numbers));
+
+</script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 5</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    function CountNumber(stringWithNumbers, targetNumber){
+        var arrayOfNumbers = stringWithNumbers.split(' '),
+            counter = 0,
+            i;
+
+        for(i = 0; i < arrayOfNumbers.length; i++){
+            if(parseInt(arrayOfNumbers[i]) === parseInt(targetNumber)){
+                counter++;
+            }
+        }
+
+        return counter;
+    }
+
+    jsConsole.writeLine("Problem 5. Appearance count");
+    jsConsole.writeLine("-----------");
+
+    var input = prompt("Enter numbers delimited with space: "),
+        searchedNumber = prompt("Enter number to search for: ");
+
+    jsConsole.writeLine(searchedNumber + " is repeated " +
+                        CountNumber(input, searchedNumber) + " time(s).");
+</script>
+</body>
+</html>

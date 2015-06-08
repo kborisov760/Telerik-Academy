@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 3</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 3. Deep copy");
+    jsConsole.writeLine("-----------");
+
+    function deepCopy(obj) {
+        var cloned = {};
+        for (var prop in obj)
+        {
+            if (typeof obj[prop] === "object")
+            {
+                cloned[prop] = obj[prop];
+                deepCopy(obj[prop]);
+            }
+            else
+            {
+                cloned[prop] = obj[prop];
+            }
+        }
+        return cloned;
+    }
+
+    var student = {
+        firstName: 'Nikolay',
+        lastName: 'Ivanov',
+        hair: {
+            color: 'blue',
+            kind: 'curly'
+        }
+    };
+
+    var student2 = deepCopy(student);
+
+    function deepCopyFunction() {
+        jsConsole.writeLine(student);
+        jsConsole.writeLine(student.hair);
+        jsConsole.writeLine(student2);
+        jsConsole.writeLine(student2.hair);
+    }
+
+    deepCopyFunction();
+
+</script>
+</body>
+</html>

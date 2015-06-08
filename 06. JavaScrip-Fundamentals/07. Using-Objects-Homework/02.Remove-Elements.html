@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 2</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 2. Remove elements");
+    jsConsole.writeLine("-----------");
+
+    Array.prototype.remove = function () {
+        for (var i = 0; i < this.length; i++) {
+            if (this[i] === arguments[0]) {
+                this.splice(i, 1);
+                i--;
+            }
+        }
+    }
+
+    var arr = prompt("Enter array numbers separated by a space: ").split(' '),
+        target = prompt("Enter element to remove: ");
+    function removeElements() {
+        jsConsole.writeLine('Array before removing: ' + arr);
+        arr.remove(target);
+        jsConsole.writeLine('Array after removing: ' + arr);
+    }
+
+    removeElements();
+
+</script>
+</body>
+</html>

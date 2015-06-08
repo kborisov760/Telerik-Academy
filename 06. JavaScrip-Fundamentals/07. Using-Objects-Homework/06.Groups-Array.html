@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 6</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 6. Groups in array");
+    jsConsole.writeLine("-----------");
+
+    function buildPerson(firstname, lastname, age) {
+        return {
+            firstname: firstname,
+            lastname: lastname,
+            age: age,
+            toString: function toString() {
+                return this.firstname + ' ' + this.lastname + ' ' + this.age;
+            }
+        }
+    }
+
+    function group(arrayP, key) {
+        var associativeArray = {};
+        for (var i in arrayP)
+        {
+            var assoProperty = arrayP[i][key];
+            associativeArray[assoProperty] = [];
+            for (var k in arrayP)
+            {
+                if (assoProperty === arrayP[k][key])
+                {
+                    associativeArray[assoProperty].push(arrayP[k]);
+                }
+            }
+        }
+
+        return associativeArray;
+
+    }
+
+    var pesho = buildPerson('Pesho', 'Goshov', 27);
+    var gosho = buildPerson('Gosho', 'Peshov', 22);
+    var ivan = buildPerson('Ivan', 'Peshogoshov', 24);
+    var stoyan = buildPerson('Stoyan', 'Goshopeshov', 22);
+    var dragan = buildPerson('Dragan', 'Stoyanov', 24);
+
+    var arrayP = [pesho, gosho, ivan, stoyan, dragan];
+    var groupedByFname = group(arrayP, 'firstname');
+    var groupedByAge = group(arrayP, 'age');
+
+    function groupAnArray() {
+
+        for (var i = 0; i < arrayP.length; i++)
+        {
+            jsConsole.writeLine(arrayP[i].toString());
+        }
+
+        jsConsole.writeLine("-----------------------");
+        jsConsole.writeLine("Grouped by first name: ");
+        jsConsole.writeLine("-----------------------");
+
+        for (var group in groupedByFname)
+        {
+            if (group !== 'undefined')
+            {
+                 jsConsole.writeLine(group);
+                 jsConsole.writeLine(groupedByFname[group].toString());
+            }
+
+        }
+
+        jsConsole.writeLine("----------------");
+        jsConsole.writeLine("Grouped by age: ");
+        jsConsole.writeLine("----------------");
+
+        for (var group in groupedByAge)
+        {
+            if (group !== 'undefined')
+            {
+                 jsConsole.writeLine(group);
+                 jsConsole.writeLine(groupedByAge[group].toString());
+            }
+        }
+    }
+
+    groupAnArray();
+
+</script>
+</body>
+</html>

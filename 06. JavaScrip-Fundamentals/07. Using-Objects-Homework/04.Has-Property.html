@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 4</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 4. Has property");
+    jsConsole.writeLine("-----------");
+
+    function checkHasProperty (obj,string) {
+        hasProp = false;
+        for (var prop in obj)
+        {
+            if (prop === string)
+            {
+                hasProp = true;
+            }
+        }
+
+        return hasProp;
+
+    }
+    var student = {
+        firstName: 'Nikolay',
+        lastName: 'Ivanov',
+        lenght: 23,
+        height: 185
+    };
+
+    function hasProperty () {
+        jsConsole.writeLine("Object contains a given property:");
+        jsConsole.writeLine(checkHasProperty(student,'lenght'));
+        jsConsole.writeLine('-----------------')
+        jsConsole.writeLine("Build-in function object contains a given property:");
+        jsConsole.writeLine(student.hasOwnProperty('lastName'));
+        jsConsole.writeLine(student.hasOwnProperty('height'));
+        jsConsole.writeLine('-----------------')
+        jsConsole.writeLine(student);
+    }
+
+    hasProperty();
+
+</script>
+</body>
+</html>

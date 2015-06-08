@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 5</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 5. Youngest person");
+    jsConsole.writeLine("-----------");
+
+    function checkYoungest(array) {
+        var arrIndex = 0;
+        var minAge = array[0].age;
+        for (var i = 1; i < array.length; i++)
+        {
+            if (array[i].age < minAge)
+            {
+                minAge = array[i];
+                arrIndex = i;
+            }
+        }
+
+        return array[arrIndex].firstname + ' ' + array[arrIndex].lastname;
+
+    }
+
+    var people = [{
+        firstname: 'Stefan',
+        lastname: 'Conkov',
+        age: 32
+    }, {
+        firstname: 'Yordan',
+        lastname: 'Karaivanov',
+        age: 81
+    }, {
+        firstname: 'Gramadan',
+        lastname: 'Vestonoskov',
+        age: 27
+    }];
+
+    function youngestPerson() {
+        jsConsole.writeLine("Youngest person: " + checkYoungest(people));
+    }
+
+    youngestPerson();
+
+</script>
+</body>
+</html>

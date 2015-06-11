@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 11</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 11. String format");
+    jsConsole.writeLine("-----------");
+
+    (function(){
+        var strWithPlaceholders = '{0} {1} {2} {3} day! {0}',
+                result;
+
+        result = formatString(strWithPlaceholders, ':)', 'Have', 'a', 'nice');
+        console.log('STRING FORMAT');
+        console.log(result);
+
+        function formatString(format, stringsToInsert){
+            var args = [].slice.apply(arguments);
+
+            if (args.length < 2) {
+                return 'Invalid arguments.';
+            }
+
+            var format = args[0],
+                    stringsToInsert = args.slice(1),
+                    iterations = stringsToInsert.length,
+                    currentPlaceholder;
+
+            for (var i = 0; i < iterations; i += 1) {
+                currentPlaceholder = '{' + i + '}';
+                format = replaceAll(format, currentPlaceholder, stringsToInsert[i]);
+            }
+
+            return format;
+        }
+
+    }());
+
+</script>
+</body>
+</html>

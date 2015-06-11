@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 7</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 7. Parse URL");
+    jsConsole.writeLine("-----------");
+
+    (function(){
+        var url = new URL('http://telerikacademy.com/Courses/Courses/Details/239'),
+                prot = url.protocol,
+                server = url.host,
+                resource = url.pathname,
+                jsonObj;
+
+        jsonObj = JSON.parse(JSON.stringify(prot));
+        jsonObj += JSON.parse(JSON.stringify(server)) + JSON.parse(JSON.stringify(resource));
+
+        console.log("PARSE URL");
+        console.log(prot + "\n" + server + "\n" + resource);
+    }());
+
+</script>
+</body>
+</html>

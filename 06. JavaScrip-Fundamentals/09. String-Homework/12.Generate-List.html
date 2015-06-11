@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 12</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 12.Generate list");
+    jsConsole.writeLine("-----------");
+
+    (function(){
+        var people = [{name: 'Peter', age: 14},
+                    {name: 'George', age: 20},
+                    {name: 'Elizabeth', age: 24}],
+                template = document.getElementById('future-list').innerHTML,
+                newList = generateListByTemplate(people, template),
+                newElement = document.createElement('div');
+
+        console.log('GENERATE LIST');
+        console.log(newList);
+
+        newElement.innerHTML = '<h2>Result:</h2>' + newList;
+        document.body.appendChild(newElement);
+
+        function generateListByTemplate(arr, template){
+            if (!template || arr.length < 1) {
+                return 'Invalid arguments.';
+            }
+
+            var arrLength = arr.length,
+                    list = '<ul>',
+                    currentLi,
+                    currentObject = {},
+                    placeholder;
+
+            for (var i = 0; i < arrLength; i += 1) {
+                currentLi = '<li>' + template;
+                currentObject = arr[i];
+
+                for (var prop in currentObject) {
+                    placeholder = '-{' + prop + '}-';
+                    currentLi = currentLi.replace(placeholder, currentObject[prop]);
+                }
+
+                list += currentLi + '</li>';
+            }
+
+            list += '</ul>';
+
+            return list;
+        }
+    }());
+
+</script>
+</body>
+</html>

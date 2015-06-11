@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 6</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 6. Extract text from HTML");
+    jsConsole.writeLine("-----------");
+
+    (function(){
+        var htmlCode = "<html><head><title>Sample site</title></head><body><div>text<div>more text</div>and more...</div>in body </body></html>",
+                extractedText = replaceTags(htmlCode);
+
+        console.log(htmlCode);
+        console.log("extracted text: " + extractedText);
+
+        function replaceTags(string){
+            if (!string) {
+                return "Null, undefined or empty string.";
+            }
+
+            var strLength = string.length,
+                    indOpeningBracket = string.indexOf("<"),
+                    indClosingBracket = string.indexOf(">"),
+                    currentTag;
+
+            while (indOpeningBracket > -1) {
+                currentTag = string.substring(indOpeningBracket, indClosingBracket + 1);
+                string = string.replace(currentTag, "");
+                indOpeningBracket = string.indexOf("<");
+                indClosingBracket = string.indexOf(">");
+            }
+
+            return string;
+        }
+    }());
+
+</script>
+</body>
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 4</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 4. Parse tags");
+    jsConsole.writeLine("-----------");
+
+    (function () {
+        var text = "We are <mixcase>living</mixcase> in a <upcase>yellow submarine</upcase>. We <mixcase>don't</mixcase> have <lowcase>anything</lowcase> else.",
+                editedText = changeText(text);
+
+        jsConsole.writeLine("Original: " + text);
+        jsConsole.writeLine("Parsed: " + editedText);
+
+        function changeText(text) {
+            if (!text) {
+                return "Null, undefined or empty value.";
+            }
+
+            var indClosingTagStart = text.indexOf('</'),
+                    indClosingTagEnd,
+                    currentTag,
+                    strToEdit,
+                    indOpeningTagStart,
+                    indOpeningTagEnd;
+
+            while (indClosingTagStart > -1) {
+                indClosingTagEnd = text.indexOf('>', indClosingTagStart + 2);
+                currentTag = text.substring(indClosingTagStart + 2, indClosingTagEnd);
+
+                indOpeningTagEnd = text.lastIndexOf('>', indClosingTagStart - 1);
+                indOpeningTagStart = text.lastIndexOf('<', indOpeningTagEnd - 1);
+
+                strToEdit = text.substring(indOpeningTagEnd + 1, indClosingTagStart);
+
+                switch (currentTag) {
+                    case 'mixcase':
+                        strToEdit = mixIt(strToEdit); break;
+                    case 'upcase':
+                        strToEdit = strToEdit.toUpperCase(); break;
+                    case 'lowcase':
+                        strToEdit = strToEdit.toLowerCase(); break;
+                }
+
+                text = text.substring(0, indOpeningTagStart) + strToEdit + text.substring(indClosingTagEnd + 1);
+                indClosingTagStart = text.indexOf('</');
+            }
+
+            return text;
+        }
+
+        function mixIt(str){
+            if (!str) {
+                return "Null, undefined or empty value.";
+            }
+
+            var strLength = str.length,
+                    mixed = "",
+                    isUpper,
+                    currentChar;
+
+            for (var i = 0; i < strLength; i += 1) {
+                isUpper = getRandomBool();
+
+                if (isUpper === true) {
+                    currentChar = str[i].toUpperCase();
+                } else {
+                    currentChar = str[i].toLowerCase();
+                }
+
+                mixed += currentChar;
+            }
+
+            return mixed;
+        }
+
+        function getRandomBool(){
+            return Boolean(Math.floor(Math.random() * 2));
+        }
+
+    }());
+
+</script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 10</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 10. Find palindromes");
+    jsConsole.writeLine("-----------");
+
+    (function(){
+        var text = "ABBA, lamal, exe, great, bright  11211",
+                arr = text.split(/[ ,]+/),
+                arrLength = arr.length;
+
+        console.log("FIND PALINDROMES");
+
+        for (var i = 0; i < arrLength; i += 1) {
+            console.log(arr[i] + ": " + isPalindrome(arr[i]));
+        }
+
+        function isPalindrome(str){
+            if (!str) {
+                return false;
+            }
+
+            var strLength = str.length;
+            iterations = parseInt(strLength / 2);
+
+            for (var i = 0;i < iterations; i += 1) {
+                if (str[i] !== str[strLength - 1 - i]) {
+                    return false;
+                }
+            }
+
+            return true;
+        }
+    }());
+
+</script>
+</body>
+</html>

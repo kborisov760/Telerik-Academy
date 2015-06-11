@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 9</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 9. Extract email");
+    jsConsole.writeLine("-----------");
+
+    (function(){
+        var text = "cellymonnyga-3695@yopmail.com , pleaseWork@abv.bg notAn e-mail address JohnDoe@yahoo.com EricJFarkas@armyspy.com. jAneDoe@gmail.com sunny day.great",
+                emails = extractEmails(text);
+
+        console.log("EXTRACT E-MAILS");
+        console.log("input: " + text);
+        console.log("output: " + emails);
+
+        function extractEmails(string){
+            if (!string) {
+                return "Null, undefined or empty string.";
+            }
+
+            var pattern = /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}\b/gi,
+                    extractedMails = string.match(pattern);
+
+            return extractedMails;
+        }
+    }());
+
+</script>
+</body>
+</html>

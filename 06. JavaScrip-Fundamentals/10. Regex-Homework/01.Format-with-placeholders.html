@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 1</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 1. Format with placeholders");
+    jsConsole.writeLine("-----------");
+
+    String.prototype.format = function (options) {
+        return this.replace(/(?:#{(\w+)})/g, function ($0, $1) {
+            return options[$1];
+        });
+    };
+
+    var options1 = {name: 'John'};
+    jsConsole.writeLine('Hello, there! Are you #{name}?'.format(options1));
+    jsConsole.writeLine('............');
+    var options2 = {name: 'John', age: 13};
+    jsConsole.writeLine('My name is #{name} and I am #{age}-years-old'.format(options2));
+
+</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 1</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 1. Reverse string");
+    jsConsole.writeLine("-----------");
+
+    (function(){
+        var originalString = prompt("Enter original text: "),
+                reversedString = reverseString(originalString);
+
+        jsConsole.writeLine("Original string: " + originalString);
+        jsConsole.writeLine("Reversed string: " + reversedString);
+
+        function reverseString(str) {
+            var reversed = "",
+                    strLength = str.length-1;
+
+            if (!str) {
+                return str;
+            }
+
+            for(var i = strLength; i >= 0; i--){
+                reversed += str[i];
+            }
+
+            return reversed;
+        }
+    }());
+
+</script>
+</body>
+</html>

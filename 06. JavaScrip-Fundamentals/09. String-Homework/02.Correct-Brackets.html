@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 2</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 2. Correct brackets");
+    jsConsole.writeLine("-----------");
+
+    (function(){
+        var firstExpression = "((a+b)/5-d)",
+                secondExpression = ")(a+b))";
+
+       jsConsole.writeLine(firstExpression + ": " + bracketsAreCorrect(firstExpression));
+       jsConsole.writeLine(secondExpression + ": " + bracketsAreCorrect(secondExpression));
+
+        function bracketsAreCorrect(string){
+            if (!string) {
+                return false;
+            }
+
+            var openingBrackets = getCharCount(string, "("),
+                    closingBrackets = getCharCount(string, ")");
+
+            if ((openingBrackets === closingBrackets) && (string.indexOf("(") < string.indexOf(")"))
+                    && (string.lastIndexOf(")") > string.lastIndexOf("("))) {
+                return true;
+            }
+
+            return false;
+        }
+
+        function getCharCount(string, char){
+            var strLength = string.length,
+                    charCount = 0;
+
+            for (var i = 0; i < strLength; i++) {
+                if (char === string[i]) {
+                    charCount++;
+                }
+            }
+
+            return charCount;
+        }
+    }());
+
+</script>
+</body>
+</html>

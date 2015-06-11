@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 8</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+<div id="js-console"></div>
+<script src="scripts/js-console.js"></script>
+<script>
+
+    jsConsole.writeLine("Problem 8. Replace tags");
+    jsConsole.writeLine("-----------");
+
+    (function(){
+        var input = '<p>Please visit <a href="http://academy.telerik.com">our site</a> to choose a training course. Also visit <a href="www.devbg.org">our forum</a> to discuss the courses.</p>',
+                output = replaceLinks(input);
+
+        console.log("REPLACE TAGS");
+        console.log(input);
+        console.log(output);
+
+        function replaceLinks(string){
+            if (!string) {
+                return "Null, undefined or empty value.";
+            }
+
+            var indOpeningTag = string.indexOf('<a href="');
+
+            while (indOpeningTag > -1) {
+                string = string.replace('<a href="', '[URL=');
+                string = string.replace('">', ']');
+                string = string.replace('</a>', '[/URL]');
+                indOpeningTag = string.indexOf('<a href="');
+            }
+
+            return string;
+        }
+    }());
+</script>
+</body>
+</html>

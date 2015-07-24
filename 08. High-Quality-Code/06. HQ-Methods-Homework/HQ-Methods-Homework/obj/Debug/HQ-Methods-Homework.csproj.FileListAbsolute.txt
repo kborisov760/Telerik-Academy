@@ -1,0 +1,4 @@
+D:\Telerik Software Academy\02.Season 2014-2015\08.High-Quality Code\06. High-Quality-Methods\HQ-Methods-Homework\HQ-Methods-Homework\bin\Debug\HQ-Methods-Homework.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\08.High-Quality Code\06. High-Quality-Methods\HQ-Methods-Homework\HQ-Methods-Homework\obj\Debug\HQ-Methods-Homework.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\08.High-Quality Code\06. High-Quality-Methods\HQ-Methods-Homework\HQ-Methods-Homework\bin\Debug\HQ-Methods-Homework.exe
+D:\Telerik Software Academy\02.Season 2014-2015\08.High-Quality Code\06. High-Quality-Methods\HQ-Methods-Homework\HQ-Methods-Homework\obj\Debug\HQ-Methods-Homework.exe

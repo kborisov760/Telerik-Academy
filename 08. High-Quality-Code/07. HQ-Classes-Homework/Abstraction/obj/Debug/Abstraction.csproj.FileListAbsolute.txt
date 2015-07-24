@@ -1,0 +1,4 @@
+D:\Telerik Software Academy\02.Season 2014-2015\08.High-Quality Code\07. High-Quality-Classes\HQ-Classes-Homework\Abstraction\bin\Debug\Abstraction.exe
+D:\Telerik Software Academy\02.Season 2014-2015\08.High-Quality Code\07. High-Quality-Classes\HQ-Classes-Homework\Abstraction\bin\Debug\Abstraction.pdb
+D:\Telerik Software Academy\02.Season 2014-2015\08.High-Quality Code\07. High-Quality-Classes\HQ-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+D:\Telerik Software Academy\02.Season 2014-2015\08.High-Quality Code\07. High-Quality-Classes\HQ-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb

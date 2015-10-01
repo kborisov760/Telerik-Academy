@@ -62,24 +62,24 @@
             <birthdate>22.02.1989</birthdate>
             <phone>+359876951357</phone>
             <email>ginka@stsystem.it</email>
-            <course></course>
-            <speciality></speciality>
-            <facultynumber></facultynumber>
+            <course>Management</course>
+            <speciality>Financy and Economy</speciality>
+            <facultynumber>3</facultynumber>
             <exams>
                 <exam>
-                    <examname></examname>
-                    <tutor></tutor>
-                    <score></score>
+                    <examname>Money counting</examname>
+                    <tutor>Mlad Merinjei</tutor>
+                    <score>6</score>
                 </exam>
                 <exam>
-                    <examname></examname>
-                    <tutor></tutor>
-                    <score></score>
+                    <examname>Company management</examname>
+                    <tutor>Pak Mlad Merinjei</tutor>
+                    <score>6</score>
                 </exam>
                 <exam>
-                    <examname></examname>
-                    <tutor></tutor>
-                    <score></score>
+                    <examname>Personal finance</examname>
+                    <tutor>Kogaa</tutor>
+                    <score>4</score>
                 </exam>
             </exams>
         </student>

@@ -1,86 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-    <students>
-        <student>
-            <name>Georgy Ivanov</name>
-            <sex>male</sex>
-            <birthdate>01.01.1994</birthdate>
-            <phone>+359882112233</phone>
-            <email>georgy@stsystem.it</email>
-            <course>Computer Science</course>
-            <speciality>Information Technologies</speciality>
-            <facultynumber>1</facultynumber>
-            <exams>
-                <exam>
-                    <examname>DSA</examname>
-                    <tutor>Onzi Umniya</tutor>
-                    <score>6</score>
-                </exam>
-                <exam>
-                    <examname>OOP</examname>
-                    <tutor>Tozi Krasiviya</tutor>
-                    <score>4</score>
-                </exam>
-                <exam>
-                    <examname>HQC</examname>
-                    <tutor>Ei Go Golemiya</tutor>
-                    <score>5</score>
-                </exam>
-            </exams>
-        </student>
-        <!--      ------------------------------------  -->
-        <student>
-            <name>Pesho Todorov</name>
-            <sex>male</sex>
-            <birthdate>16.09.1993</birthdate>
-            <phone>+359898655422</phone>
-            <email>pesho@stsystem.it</email>
-            <course>Durvoobrabotvane</course>
-            <speciality>Landscape Architecture</speciality>
-            <facultynumber>2</facultynumber>
-            <exams>
-                <exam>
-                    <examname>Durvoznanie</examname>
-                    <tutor>Serafim Ozelenitelya</tutor>
-                    <score>3</score>
-                </exam>
-                <exam>
-                    <examname>Bradvarstvo</examname>
-                    <tutor>Dimo Selyanina</tutor>
-                    <score>6</score>
-                </exam>
-                <exam>
-                    <examname>Gorsko stopanstvo</examname>
-                    <tutor>Totyo Gorskiya</tutor>
-                    <score>4</score>
-                </exam>
-            </exams>
-        </student>
-        <!--      ------------------------------------  -->
-        <student>
-            <name>Ginka Chimshirova</name>
-            <sex>female</sex>
-            <birthdate>22.02.1989</birthdate>
-            <phone>+359876951357</phone>
-            <email>ginka@stsystem.it</email>
-            <course>Management</course>
-            <speciality>Financy and Economy</speciality>
-            <facultynumber>3</facultynumber>
-            <exams>
-                <exam>
-                    <examname>Money counting</examname>
-                    <tutor>Mlad Merinjei</tutor>
-                    <score>6</score>
-                </exam>
-                <exam>
-                    <examname>Company management</examname>
-                    <tutor>Pak Mlad Merinjei</tutor>
-                    <score>6</score>
-                </exam>
-                <exam>
-                    <examname>Personal finance</examname>
-                    <tutor>Kogaa</tutor>
-                    <score>4</score>
-                </exam>
-            </exams>
-        </student>
-    </students>
+    <?xml-stylesheet type="text/xsl" href="style.xsl"?>
+        <students>
+            <student xmlns:students="urn:students-system-com:studs">
+                <name>Georgy Ivanov</name>
+                <sex>male</sex>
+                <birthdate>01.01.1994</birthdate>
+                <phone>+359882112233</phone>
+                <email>georgy@stsystem.it</email>
+                <course>Computer Science</course>
+                <speciality>Information Technologies</speciality>
+                <facultynumber>1</facultynumber>
+                <exams>
+                    <exam>
+                        <examname>DSA</examname>
+                        <tutor>Onzi Umniya</tutor>
+                        <score>6</score>
+                    </exam>
+                    <exam>
+                        <examname>OOP</examname>
+                        <tutor>Tozi Krasiviya</tutor>
+                        <score>4</score>
+                    </exam>
+                    <exam>
+                        <examname>HQC</examname>
+                        <tutor>Ei Go Golemiya</tutor>
+                        <score>5</score>
+                    </exam>
+                </exams>
+            </student>
+            <student>
+                <name>Pesho Todorov</name>
+                <sex>male</sex>
+                <birthdate>16.09.1993</birthdate>
+                <phone>+359898655422</phone>
+                <email>pesho@stsystem.it</email>
+                <course>Durvoobrabotvane</course>
+                <speciality>Landscape Architecture</speciality>
+                <facultynumber>2</facultynumber>
+                <exams>
+                    <exam>
+                        <examname>Durvoznanie</examname>
+                        <tutor>Serafim Ozelenitelya</tutor>
+                        <score>3</score>
+                    </exam>
+                    <exam>
+                        <examname>Bradvarstvo</examname>
+                        <tutor>Dimo Selyanina</tutor>
+                        <score>6</score>
+                    </exam>
+                    <exam>
+                        <examname>Gorsko stopanstvo</examname>
+                        <tutor>Totyo Gorskiya</tutor>
+                        <score>4</score>
+                    </exam>
+                </exams>
+            </student>
+            <student>
+                <name>Ginka Chimshirova</name>
+                <sex>female</sex>
+                <birthdate>22.02.1989</birthdate>
+                <phone>+359876951357</phone>
+                <email>ginka@stsystem.it</email>
+                <course>Management</course>
+                <speciality>Financy and Economy</speciality>
+                <facultynumber>3</facultynumber>
+                <exams>
+                    <exam>
+                        <examname>Money counting</examname>
+                        <tutor>Mlad Merinjei</tutor>
+                        <score>6</score>
+                    </exam>
+                    <exam>
+                        <examname>Company management</examname>
+                        <tutor>Pak Mlad Merinjei</tutor>
+                        <score>6</score>
+                    </exam>
+                    <exam>
+                        <examname>Personal finance</examname>
+                        <tutor>Kogaa</tutor>
+                        <score>4</score>
+                    </exam>
+                </exams>
+            </student>
+        </students>

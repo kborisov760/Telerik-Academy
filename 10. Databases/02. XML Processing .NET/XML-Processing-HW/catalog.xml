@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<catalog>
+<album>
+  <name>Non-Fiction</name>
+  <artist>Ne-Yo</artist>
+  <year>2015</year>
+  <producer>D Lumar</producer>
+  <price>19</price>
+  <songs>
+    <song>
+      <title>Run</title>
+      <duration>3:07</duration>
+    </song>
+    <song>
+      <title>One More</title>
+      <duration>4:18</duration>
+    </song>
+    <song>
+        <title>Good Morning</title>
+        <duration>3:19</duration>
+      </song>
+    </songs>
+</album>
+  
+<album>
+  <name>Full Speed</name>
+  <artist>Kid Ink</artist>
+  <year>2015</year>
+  <producer>Brian Collins</producer>
+  <price>13</price>
+  <songs>
+    <song>
+      <title>What It Feel Like</title>
+      <duration>2:13</duration>
+    </song>
+  <song>
+    <title>Every City We Go</title>
+    <duration>3:52</duration>
+  </song>
+    <song>
+      <title>Round Here</title>
+      <duration>3:05</duration>
+    </song>
+  </songs>
+</album>
+  
+<album>
+  <name>If You're Reading This It's Too Late</name>
+  <artist>Drake</artist>
+  <year>2015</year>
+  <producer>Aubrey Drake Graham</producer>
+  <price>8</price>
+  <songs>
+      <songs>
+    <song>
+      <title>10 Bands</title>
+      <duration>2:57</duration>
+    </song>
+  <song>
+    <title>Used To</title>
+    <duration>3:56</duration>
+  </song>
+    <song>
+      <title>Jungle</title>
+      <duration>5:20</duration>
+    </song>
+  </songs>
+  </songs>
+</album>
+</catalog>

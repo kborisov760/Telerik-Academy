@@ -1,0 +1,1 @@
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\02. Extract-artists-from-xml\bin\Debug\_02.Extract_artists_from_xml.exe.config

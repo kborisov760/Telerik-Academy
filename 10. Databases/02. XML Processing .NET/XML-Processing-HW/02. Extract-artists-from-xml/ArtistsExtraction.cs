@@ -22,6 +22,10 @@
             var hash = new HashSet<string>();
 
             Console.WriteLine("List of artists: {0}", String.Join(", ", allArtists));
+            Console.WriteLine("***********************************");
+            Console.WriteLine("Number of albums for every artist: ");
+            Console.WriteLine("------------------");
+            
         }
 
         //TODO: Implement logic for counting all times given artist's name is matching XML within specific attr
@@ -30,22 +34,24 @@
 
         public int CountAuthorAlbums(string artist)
         {
-            int artistCounter = 0;
+            int currentArtistCounter = 0;
 
             using (XmlReader reader = XmlReader.Create("../../../catalog.xml"))
             {
                 while(reader.Read())
                 {
-                    if((reader.NodeType == XmlNodeType.Element) && (reader.Name == artist))
+                    if((reader.NodeType == XmlNodeType.Element) 
+                        && (reader.Name == "artist")
+                        && (reader.Value == artist))
                     {
-                        artistCounter++;
+                        currentArtistCounter++;
                     }
                 }
 
                 reader.Close();
             }
             
-            return artistCounter;
+            return currentArtistCounter;
         }
     }
 }

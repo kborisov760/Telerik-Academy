@@ -18,6 +18,8 @@
                 allArtists.Add(node["artist"].InnerText);
             }
 
+            Console.WriteLine(CountAuthorAlbums("Ne-Yo"));
+
             Console.WriteLine("List of artists: {0}", String.Join(", ", allArtists));
             Console.WriteLine("***********************************");
             Console.WriteLine("Number of albums for every artist: ");
@@ -34,12 +36,8 @@
                 }
             }
             
-        }
-
-        //TODO: Implement logic for counting all times given artist's name is matching XML within specific attr
-
-            
-
+        }   
+         
         static int CountAuthorAlbums(string artist)
         {
             int currentArtistCounter = 0;
@@ -48,11 +46,13 @@
             {
                 while(reader.Read())
                 {
-                    if((reader.NodeType == XmlNodeType.Element) 
-                        && (reader.Name == "artist")
-                        && (reader.Value == artist))
+                    if((reader.NodeType == XmlNodeType.Element) && (reader.Name == "artist"))
                     {
-                        currentArtistCounter++;
+                        reader.Read();
+                        if (reader.Value == artist)
+                        {
+                            currentArtistCounter++;
+                        }
                     }
                 }
 

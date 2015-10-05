@@ -3,7 +3,6 @@
     using System;
     using System.Collections.Generic;
     using System.Xml;
-    using System.Linq;
 
     class ArtistsExtraction
     {
@@ -12,8 +11,9 @@
             XmlDocument calatogDocument = new XmlDocument();
             calatogDocument.Load("../../../catalog.xml");
             XmlNode mainNode = calatogDocument.DocumentElement;
-            var allArtists = new List<string>();
 
+            var allArtists = new HashSet<string>();
+            var artistsHashSet = new HashSet<string>();
 
             foreach (XmlNode node in mainNode.ChildNodes)
             {
@@ -21,20 +21,8 @@
             }
 
             Console.WriteLine("List of artists: {0}", String.Join(", ", allArtists));
-            Console.WriteLine();
+            Console.WriteLine("-------------------");
             Console.WriteLine("Number of albums for every artist: ");
-            Console.WriteLine("------------------");
-            Console.WriteLine();
-
-            var artistsHashSet = new HashSet<string>();
-
-            //foreach (XmlNode node in mainNode.ChildNodes)
-            //{
-            //    foreach(XmlNode s in node)
-            //    {
-            //        Console.WriteLine(s.Name);
-            //    }
-            //}
 
             foreach (XmlNode currentNode in mainNode.ChildNodes)
             {
@@ -49,8 +37,6 @@
                 }
                 
             }
-
-            Console.WriteLine();
             
         }   
          

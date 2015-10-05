@@ -13,28 +13,44 @@
             calatogDocument.Load("../../../catalog.xml");
             XmlNode mainNode = calatogDocument.DocumentElement;
             var allArtists = new List<string>();
+
+
             foreach (XmlNode node in mainNode.ChildNodes)
             {
                 allArtists.Add(node["artist"].InnerText);
             }
 
-            Console.WriteLine(CountAuthorAlbums("Ne-Yo"));
-
             Console.WriteLine("List of artists: {0}", String.Join(", ", allArtists));
-            Console.WriteLine("***********************************");
+            Console.WriteLine();
             Console.WriteLine("Number of albums for every artist: ");
             Console.WriteLine("------------------");
+            Console.WriteLine();
 
             var artistsHashSet = new HashSet<string>();
 
-            foreach(XmlNode currentNode in mainNode.ChildNodes)
+            //foreach (XmlNode node in mainNode.ChildNodes)
+            //{
+            //    foreach(XmlNode s in node)
+            //    {
+            //        Console.WriteLine(s.Name);
+            //    }
+            //}
+
+            foreach (XmlNode currentNode in mainNode.ChildNodes)
             {
-                if(currentNode.Name == "artist" && !artistsHashSet.Contains(currentNode.Value))
+                foreach(XmlNode innerNode in currentNode)
                 {
-                    artistsHashSet.Add(currentNode.Value);
-                    Console.WriteLine("{0} has {1} album(s).", currentNode.Value, CountAuthorAlbums(currentNode.Value));
+                    if (innerNode.Name == "artist" && !artistsHashSet.Contains(innerNode.InnerText))
+                    {
+                        
+                        artistsHashSet.Add(innerNode.InnerText);
+                        Console.WriteLine("{0} has {1} album(s).", innerNode.InnerText, CountAuthorAlbums(innerNode.InnerText));
+                    }
                 }
+                
             }
+
+            Console.WriteLine();
             
         }   
          

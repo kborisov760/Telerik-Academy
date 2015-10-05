@@ -19,16 +19,33 @@
 
             }
 
+            var hash = new HashSet<string>();
+
             Console.WriteLine("List of artists: {0}", String.Join(", ", allArtists));
         }
 
         //TODO: Implement logic for counting all times given artist's name is matching XML within specific attr
 
-        public int CountAuthorAlbums(XmlAttribute artist)
+            
+
+        public int CountAuthorAlbums(string artist)
         {
             int artistCounter = 0;
+
+            using (XmlReader reader = XmlReader.Create("../../../catalog.xml"))
+            {
+                while(reader.Read())
+                {
+                    if((reader.NodeType == XmlNodeType.Element) && (reader.Name == artist))
+                    {
+                        artistCounter++;
+                    }
+                }
+
+                reader.Close();
+            }
             
-            return 0;
+            return artistCounter;
         }
     }
 }

@@ -1,0 +1,6 @@
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\03.ExtractArtistFromXml-XPath\bin\Debug\03.ExtractArtistFromXml-XPath.exe.config
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\03.ExtractArtistFromXml-XPath\obj\Debug\03.ExtractArtistFromXml-XPath.csprojResolveAssemblyReference.cache
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\03.ExtractArtistFromXml-XPath\bin\Debug\03.ExtractArtistFromXml-XPath.exe
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\03.ExtractArtistFromXml-XPath\bin\Debug\03.ExtractArtistFromXml-XPath.pdb
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\03.ExtractArtistFromXml-XPath\obj\Debug\03.ExtractArtistFromXml-XPath.exe
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\03.ExtractArtistFromXml-XPath\obj\Debug\03.ExtractArtistFromXml-XPath.pdb

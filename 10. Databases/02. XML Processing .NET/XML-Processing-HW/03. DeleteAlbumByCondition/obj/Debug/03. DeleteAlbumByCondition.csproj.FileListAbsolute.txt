@@ -1,0 +1,6 @@
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\03. DeleteAlbumByCondition\bin\Debug\_03.Delete_artists_by_condition.exe.config
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\03. DeleteAlbumByCondition\bin\Debug\_03.Delete_artists_by_condition.exe
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\03. DeleteAlbumByCondition\bin\Debug\_03.Delete_artists_by_condition.pdb
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\03. DeleteAlbumByCondition\obj\Debug\03. DeleteAlbumByCondition.csprojResolveAssemblyReference.cache
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\03. DeleteAlbumByCondition\obj\Debug\_03.Delete_artists_by_condition.exe
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\03. DeleteAlbumByCondition\obj\Debug\_03.Delete_artists_by_condition.pdb

@@ -5,7 +5,7 @@
   <artist>Ne-Yo</artist>
   <year>2015</year>
   <producer>D Lumar</producer>
-  <price>19</price>
+  <price limit="lt">19</price>
   <songs>
     <song>
       <title>Run</title>
@@ -27,7 +27,7 @@
   <artist>Kid Ink</artist>
   <year>2015</year>
   <producer>Brian Collins</producer>
-  <price>13</price>
+  <price limit="lt">13</price>
   <songs>
     <song>
       <title>What It Feel Like</title>
@@ -49,7 +49,7 @@
   <artist>Drake</artist>
   <year>2015</year>
   <producer>Aubrey Drake Graham</producer>
-  <price>8</price>
+  <price limit="lt">8</price>
   <songs>
       <songs>
     <song>
@@ -73,7 +73,7 @@
     <artist>Kid Ink</artist>
     <year>2015</year>
     <producer>Brian Collins</producer>
-    <price>13</price>
+    <price limit="gt">23</price>
     <songs>
       <song>
         <title>What It Feel Like</title>

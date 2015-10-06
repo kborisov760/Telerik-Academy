@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. ExtractArtistFromXml", "02. ExtractArtistFromXml\02. ExtractArtistFromXml.csproj", "{1A9063F1-AE2B-48A6-BF28-053189781815}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. DeleteAlbumByCondition", "03. DeleteAlbumByCondition\03. DeleteAlbumByCondition.csproj", "{F06B9D83-DAAA-4715-BC16-1065DCBA19C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExtractArtistFromXml-XPath", "03.ExtractArtistFromXml-XPath\03.ExtractArtistFromXml-XPath.csproj", "{5112273F-58F0-4896-AFED-74C8E37A4127}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,10 +22,10 @@ Global
 		{1A9063F1-AE2B-48A6-BF28-053189781815}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A9063F1-AE2B-48A6-BF28-053189781815}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A9063F1-AE2B-48A6-BF28-053189781815}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F06B9D83-DAAA-4715-BC16-1065DCBA19C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F06B9D83-DAAA-4715-BC16-1065DCBA19C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F06B9D83-DAAA-4715-BC16-1065DCBA19C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F06B9D83-DAAA-4715-BC16-1065DCBA19C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5112273F-58F0-4896-AFED-74C8E37A4127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5112273F-58F0-4896-AFED-74C8E37A4127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5112273F-58F0-4896-AFED-74C8E37A4127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5112273F-58F0-4896-AFED-74C8E37A4127}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

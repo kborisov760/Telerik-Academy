@@ -4,7 +4,7 @@
     using System.Collections.Generic;
     using System.Xml;
 
-    class ArtistsExtraction
+    public class ArtistsExtraction
     {
         static void Main()
         {
@@ -40,7 +40,7 @@
             
         }   
          
-        static int CountAuthorAlbums(string artist)
+        public static int CountAuthorAlbums(string artist)
         {
             int currentArtistCounter = 0;
 

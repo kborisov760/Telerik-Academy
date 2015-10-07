@@ -7,3 +7,9 @@ D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML
 D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\02. ExtractArtistFromXml\bin\Debug\_02.Extract_artists_from_xml.exe
 D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\02. ExtractArtistFromXml\bin\Debug\_02.Extract_artists_from_xml.pdb
 D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\02. ExtractArtistFromXml\obj\Debug\02. ExtractArtistFromXml.csprojResolveAssemblyReference.cache
+D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\02. ExtractArtistFromXml\bin\Debug\_02.Extract_artists_from_xml.exe.config
+D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\02. ExtractArtistFromXml\obj\Debug\_02.Extract_artists_from_xml.exe
+D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\02. ExtractArtistFromXml\obj\Debug\_02.Extract_artists_from_xml.pdb
+D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\02. ExtractArtistFromXml\bin\Debug\_02.Extract_artists_from_xml.exe
+D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\02. ExtractArtistFromXml\bin\Debug\_02.Extract_artists_from_xml.pdb
+D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\02. ExtractArtistFromXml\obj\Debug\02. ExtractArtistFromXml.csprojResolveAssemblyReference.cache

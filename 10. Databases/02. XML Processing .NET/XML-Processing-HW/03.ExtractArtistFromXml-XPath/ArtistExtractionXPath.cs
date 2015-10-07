@@ -26,18 +26,31 @@
             Console.WriteLine("-------------------");
             Console.WriteLine("Number of albums for every artist: ");
             
-              xPathQuery = "/catalog/album";
+              string xPathQuerySecondSelection = "/catalog/album";
 
-            XmlNodeList wholeDocument = calatogDocument.SelectNodes(xPathQuery);
+            XmlNodeList wholeDocument = calatogDocument.SelectNodes(xPathQuerySecondSelection);
 
             for (int i = 0; i < wholeDocument.Count; i++)
             {
                 var currentNode = wholeDocument[i];
-                if (currentNode.Name == "artist" && !artistHashSet.Contains(currentNode.InnerText))
+
+                if(currentNode.Name == "album")
                 {
-                    artistHashSet.Add(currentNode.InnerText);
-                    Console.WriteLine("{0} has {1} albums(s).", currentNode.InnerText, CountAuthorAlbums(currentNode.InnerText));
+                    //TODO: Logic for getting inner nodes
+                    XmlNodeList innerDocumentContent = currentNode.ChildNodes;
+                    for (int j = 0; j < innerDocumentContent.Count; j++)
+                    {
+                        var currentInnerNode = innerDocumentContent[j];
+                        if (currentInnerNode.Name == "artist" && !artistHashSet.Contains(currentInnerNode.InnerText))
+                        {
+                            artistHashSet.Add(currentInnerNode.InnerText);
+                            Console.WriteLine("{0} has {1} albums(s).", currentInnerNode.InnerText, CountAuthorAlbums(currentInnerNode.InnerText));
+                        }
+                    }
+                    
                 }
+
+                
             }
 
             //foreach (XmlNode currentNode in wholeDocument)

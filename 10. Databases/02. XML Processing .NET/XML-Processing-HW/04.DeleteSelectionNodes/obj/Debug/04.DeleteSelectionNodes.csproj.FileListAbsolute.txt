@@ -1,0 +1,1 @@
+D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\04.DeleteSelectionNodes\bin\Debug\04.DeleteSelectionNodes.exe.config

@@ -3,7 +3,6 @@
     using System;
     using System.Collections.Generic;
     using System.Xml;
-    using System.Xml.XPath;
 
     public class ArtistExtractionXPath
     {
@@ -36,7 +35,6 @@
 
                 if(currentNode.Name == "album")
                 {
-                    //TODO: Logic for getting inner nodes
                     XmlNodeList innerDocumentContent = currentNode.ChildNodes;
                     for (int j = 0; j < innerDocumentContent.Count; j++)
                     {
@@ -49,20 +47,7 @@
                     }
                     
                 }
-
-                
             }
-
-            //foreach (XmlNode currentNode in wholeDocument)
-            //{
-            //    if(currentNode.Name == "artist" && !artistHashSet.Contains(currentNode.InnerText))
-            //    {
-            //        artistHashSet.Add(currentNode.InnerText);
-            //        Console.WriteLine("{0} has {1} albums(s).", currentNode.InnerText, CountAuthorAlbums(currentNode.InnerText));
-            //    }
-            //}
-
-            
         }
 
         public static int CountAuthorAlbums(string artist)

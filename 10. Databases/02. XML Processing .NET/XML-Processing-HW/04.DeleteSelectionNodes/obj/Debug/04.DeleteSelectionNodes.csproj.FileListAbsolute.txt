@@ -1,1 +1,6 @@
 D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\04.DeleteSelectionNodes\bin\Debug\04.DeleteSelectionNodes.exe.config
+D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\04.DeleteSelectionNodes\bin\Debug\04.DeleteSelectionNodes.exe
+D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\04.DeleteSelectionNodes\bin\Debug\04.DeleteSelectionNodes.pdb
+D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\04.DeleteSelectionNodes\obj\Debug\04.DeleteSelectionNodes.csprojResolveAssemblyReference.cache
+D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\04.DeleteSelectionNodes\obj\Debug\04.DeleteSelectionNodes.exe
+D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\04.DeleteSelectionNodes\obj\Debug\04.DeleteSelectionNodes.pdb

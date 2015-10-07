@@ -16,9 +16,17 @@
             {
                 if(childNodes.Name == "album")
                 {
-                    foreach (var child in childNodes.ChildNodes)
+                    var currentNode = childNodes;
+                    foreach (XmlNode child in childNodes.ChildNodes)
                     {
                         //TODO: Implement logic for search and delete
+                        if (child.Name == "price" && child.Attributes[0].Value == "gt")
+                        {
+                            mainNode.RemoveChild(currentNode);
+                            Console.WriteLine("XML Node removed successfully!");
+                            calatogDocument.Save("../../../catalogEdit.xml");
+                            Console.WriteLine("Document with changes saved successfully!");
+                        }
                     }
                 }
             }

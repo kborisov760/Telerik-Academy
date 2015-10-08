@@ -4,3 +4,6 @@ D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-
 D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\05.ExtractAllSongs\obj\Debug\05.ExtractAllSongs.csprojResolveAssemblyReference.cache
 D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\05.ExtractAllSongs\obj\Debug\05.ExtractAllSongs.exe
 D:\GitHubRepositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\05.ExtractAllSongs\obj\Debug\05.ExtractAllSongs.pdb
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\05.ExtractAllSongs\bin\Debug\05.ExtractAllSongs.exe.config
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\05.ExtractAllSongs\obj\Debug\05.ExtractAllSongs.exe
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\05.ExtractAllSongs\obj\Debug\05.ExtractAllSongs.pdb

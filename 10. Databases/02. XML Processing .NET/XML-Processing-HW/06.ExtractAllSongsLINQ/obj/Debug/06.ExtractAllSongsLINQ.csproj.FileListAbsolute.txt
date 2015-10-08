@@ -1,0 +1,6 @@
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\06.ExtractAllSongsLINQ\bin\Debug\06.ExtractAllSongsLINQ.exe.config
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\06.ExtractAllSongsLINQ\bin\Debug\06.ExtractAllSongsLINQ.exe
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\06.ExtractAllSongsLINQ\bin\Debug\06.ExtractAllSongsLINQ.pdb
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\06.ExtractAllSongsLINQ\obj\Debug\06.ExtractAllSongsLINQ.csprojResolveAssemblyReference.cache
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\06.ExtractAllSongsLINQ\obj\Debug\06.ExtractAllSongsLINQ.exe
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\06.ExtractAllSongsLINQ\obj\Debug\06.ExtractAllSongsLINQ.pdb

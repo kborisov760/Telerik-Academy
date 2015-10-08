@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <FullName>Ivan Todorov</FullName>
+    <PhoneNumber>+359882232569</PhoneNumber>
+    <Address>Al.Malinov bld. 31 Sofia, Bulgaria</Address>
+  </Person>
+  <Person>
+    <FullName>Goran Petrov</FullName>
+    <PhoneNumber>+359878546222</PhoneNumber>
+    <Address>St.City 20 Sofia, Bulgaria</Address>
+  </Person>
+</ArrayOfPerson>

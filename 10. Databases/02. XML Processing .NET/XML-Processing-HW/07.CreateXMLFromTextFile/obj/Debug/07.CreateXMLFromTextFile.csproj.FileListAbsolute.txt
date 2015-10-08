@@ -1,0 +1,6 @@
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\07.CreateXMLFromTextFile\bin\Debug\07.CreateXMLFromTextFile.exe.config
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\07.CreateXMLFromTextFile\bin\Debug\07.CreateXMLFromTextFile.exe
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\07.CreateXMLFromTextFile\bin\Debug\07.CreateXMLFromTextFile.pdb
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\07.CreateXMLFromTextFile\obj\Debug\07.CreateXMLFromTextFile.csprojResolveAssemblyReference.cache
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\07.CreateXMLFromTextFile\obj\Debug\07.CreateXMLFromTextFile.exe
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\02. XML Processing .NET\XML-Processing-HW\07.CreateXMLFromTextFile\obj\Debug\07.CreateXMLFromTextFile.pdb

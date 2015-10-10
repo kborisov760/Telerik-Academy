@@ -4,3 +4,5 @@ D:\GitHub-Repositories\Telerik-Academy\10. Databases\03. JSON Processing .NET\JS
 D:\GitHub-Repositories\Telerik-Academy\10. Databases\03. JSON Processing .NET\JSON-Processing-HW\obj\Debug\JSON-Processing-HW.csprojResolveAssemblyReference.cache
 D:\GitHub-Repositories\Telerik-Academy\10. Databases\03. JSON Processing .NET\JSON-Processing-HW\obj\Debug\JSON-Processing-HW.exe
 D:\GitHub-Repositories\Telerik-Academy\10. Databases\03. JSON Processing .NET\JSON-Processing-HW\obj\Debug\JSON-Processing-HW.pdb
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\03. JSON Processing .NET\JSON-Processing-HW\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub-Repositories\Telerik-Academy\10. Databases\03. JSON Processing .NET\JSON-Processing-HW\bin\Debug\Newtonsoft.Json.xml

@@ -31,6 +31,7 @@ table or on the values within particular columns
 ------
 **Primary key:**
 It will not allow "Null values" and "Duplicate values"
+
 **Foreign key:**
 It will allow "Null values" and "Duplicate values" and it refers to a primary key
 in another table

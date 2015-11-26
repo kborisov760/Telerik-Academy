@@ -1,0 +1,1 @@
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\02.ReverseIntegersStack\bin\Debug\02.ReverseIntegersStack.exe.config

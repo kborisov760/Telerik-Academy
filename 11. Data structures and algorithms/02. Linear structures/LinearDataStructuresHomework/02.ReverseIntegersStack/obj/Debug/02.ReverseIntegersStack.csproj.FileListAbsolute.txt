@@ -1,1 +1,6 @@
 D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\02.ReverseIntegersStack\bin\Debug\02.ReverseIntegersStack.exe.config
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\02.ReverseIntegersStack\bin\Debug\02.ReverseIntegersStack.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\02.ReverseIntegersStack\bin\Debug\02.ReverseIntegersStack.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\02.ReverseIntegersStack\obj\Debug\02.ReverseIntegersStack.csprojResolveAssemblyReference.cache
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\02.ReverseIntegersStack\obj\Debug\02.ReverseIntegersStack.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\02.ReverseIntegersStack\obj\Debug\02.ReverseIntegersStack.pdb

@@ -4,11 +4,11 @@
     using System.Collections.Generic;
     using System.Linq;
 
-    class ReverseIntegersStack
+    public class ReverseIntegersStack
     {
         static void Main()
         {
-            Console.Write("Enter number separated by a space: ");
+            Console.Write("Enter numbers separated by a space: ");
             var numbers = Console.ReadLine().Split(new[] { ' ' }, 
                 StringSplitOptions.RemoveEmptyEntries)
                 .Select(x => int.Parse(x))

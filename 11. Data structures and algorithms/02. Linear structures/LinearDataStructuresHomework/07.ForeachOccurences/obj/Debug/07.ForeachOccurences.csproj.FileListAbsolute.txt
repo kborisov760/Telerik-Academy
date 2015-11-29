@@ -1,0 +1,8 @@
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\07.ForeachOccurences\bin\Debug\07.ForeachOccurences.exe.config
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\07.ForeachOccurences\bin\Debug\07.ForeachOccurences.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\07.ForeachOccurences\bin\Debug\07.ForeachOccurences.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\07.ForeachOccurences\bin\Debug\Common.dll
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\07.ForeachOccurences\bin\Debug\Common.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\07.ForeachOccurences\obj\Debug\07.ForeachOccurences.csprojResolveAssemblyReference.cache
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\07.ForeachOccurences\obj\Debug\07.ForeachOccurences.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\07.ForeachOccurences\obj\Debug\07.ForeachOccurences.pdb

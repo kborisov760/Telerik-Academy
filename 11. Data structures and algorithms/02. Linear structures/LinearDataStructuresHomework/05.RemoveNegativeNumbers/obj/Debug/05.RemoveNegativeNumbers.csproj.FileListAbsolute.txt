@@ -1,0 +1,8 @@
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\05.RemoveNegativeNumbers\bin\Debug\05.RemoveNegativeNumbers.exe.config
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\05.RemoveNegativeNumbers\bin\Debug\05.RemoveNegativeNumbers.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\05.RemoveNegativeNumbers\bin\Debug\05.RemoveNegativeNumbers.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\05.RemoveNegativeNumbers\bin\Debug\Common.dll
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\05.RemoveNegativeNumbers\bin\Debug\Common.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\05.RemoveNegativeNumbers\obj\Debug\05.RemoveNegativeNumbers.csprojResolveAssemblyReference.cache
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\05.RemoveNegativeNumbers\obj\Debug\05.RemoveNegativeNumbers.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\05.RemoveNegativeNumbers\obj\Debug\05.RemoveNegativeNumbers.pdb

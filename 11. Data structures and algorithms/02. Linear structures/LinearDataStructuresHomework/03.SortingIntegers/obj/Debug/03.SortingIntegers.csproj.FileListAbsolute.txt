@@ -1,0 +1,5 @@
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\03.SortingIntegers\bin\Debug\03.SortingIntegers.exe.config
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\03.SortingIntegers\bin\Debug\03.SortingIntegers.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\03.SortingIntegers\bin\Debug\03.SortingIntegers.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\03.SortingIntegers\obj\Debug\03.SortingIntegers.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\03.SortingIntegers\obj\Debug\03.SortingIntegers.pdb

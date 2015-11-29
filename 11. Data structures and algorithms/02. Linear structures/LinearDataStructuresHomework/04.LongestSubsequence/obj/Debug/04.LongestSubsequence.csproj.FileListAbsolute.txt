@@ -1,0 +1,8 @@
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\04.LongestSubsequence\bin\Debug\04.LongestSubsequence.exe.config
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\04.LongestSubsequence\bin\Debug\04.LongestSubsequence.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\04.LongestSubsequence\bin\Debug\04.LongestSubsequence.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\04.LongestSubsequence\bin\Debug\Common.dll
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\04.LongestSubsequence\bin\Debug\Common.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\04.LongestSubsequence\obj\Debug\04.LongestSubsequence.csprojResolveAssemblyReference.cache
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\04.LongestSubsequence\obj\Debug\04.LongestSubsequence.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\04.LongestSubsequence\obj\Debug\04.LongestSubsequence.pdb

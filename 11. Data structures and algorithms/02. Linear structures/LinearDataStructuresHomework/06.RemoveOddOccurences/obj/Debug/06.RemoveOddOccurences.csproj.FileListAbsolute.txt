@@ -1,0 +1,8 @@
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\06.RemoveOddOccurences\bin\Debug\06.RemoveOddOccurences.exe.config
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\06.RemoveOddOccurences\bin\Debug\06.RemoveOddOccurences.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\06.RemoveOddOccurences\bin\Debug\06.RemoveOddOccurences.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\06.RemoveOddOccurences\bin\Debug\Common.dll
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\06.RemoveOddOccurences\bin\Debug\Common.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\06.RemoveOddOccurences\obj\Debug\06.RemoveOddOccurences.csprojResolveAssemblyReference.cache
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\06.RemoveOddOccurences\obj\Debug\06.RemoveOddOccurences.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\06.RemoveOddOccurences\obj\Debug\06.RemoveOddOccurences.pdb

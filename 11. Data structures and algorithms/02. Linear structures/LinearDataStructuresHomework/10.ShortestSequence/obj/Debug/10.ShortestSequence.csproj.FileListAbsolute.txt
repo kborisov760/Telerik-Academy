@@ -1,0 +1,1 @@
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\10.ShortestSequence\bin\Debug\10.ShortestSequence.exe.config

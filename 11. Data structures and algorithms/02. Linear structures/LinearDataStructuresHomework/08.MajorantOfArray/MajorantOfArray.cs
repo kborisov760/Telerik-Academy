@@ -14,7 +14,7 @@
                 .Select(x => int.Parse(x))
                 .ToList();
 
-            //TODO: Add method from Sequence class 'MajorantOfAnArray'
+            Console.WriteLine("Majorants: {0}", string.Join(" ", Sequence.MajorantOfAnArray(numbers)));
         }
     }
 }

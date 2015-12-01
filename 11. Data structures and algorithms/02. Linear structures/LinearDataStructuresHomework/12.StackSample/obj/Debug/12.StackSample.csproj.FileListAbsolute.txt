@@ -1,0 +1,1 @@
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\12.StackSample\bin\Debug\12.StackSample.exe.config

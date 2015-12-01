@@ -1,0 +1,8 @@
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\09.SequenceForGivenN\bin\Debug\09.SequenceForGivenN.exe.config
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\09.SequenceForGivenN\bin\Debug\09.SequenceForGivenN.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\09.SequenceForGivenN\bin\Debug\09.SequenceForGivenN.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\09.SequenceForGivenN\bin\Debug\Common.dll
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\09.SequenceForGivenN\bin\Debug\Common.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\09.SequenceForGivenN\obj\Debug\09.SequenceForGivenN.csprojResolveAssemblyReference.cache
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\09.SequenceForGivenN\obj\Debug\09.SequenceForGivenN.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\02. Linear structures\LinearDataStructuresHomework\09.SequenceForGivenN\obj\Debug\09.SequenceForGivenN.pdb

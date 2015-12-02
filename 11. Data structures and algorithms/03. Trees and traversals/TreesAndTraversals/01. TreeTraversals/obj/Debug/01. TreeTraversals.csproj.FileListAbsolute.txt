@@ -1,0 +1,6 @@
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\03. Trees and traversals\TreesAndTraversals\01. TreeTraversals\bin\Debug\_01.TreeTraversals.exe.config
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\03. Trees and traversals\TreesAndTraversals\01. TreeTraversals\bin\Debug\_01.TreeTraversals.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\03. Trees and traversals\TreesAndTraversals\01. TreeTraversals\bin\Debug\_01.TreeTraversals.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\03. Trees and traversals\TreesAndTraversals\01. TreeTraversals\obj\Debug\_01.TreeTraversals.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\03. Trees and traversals\TreesAndTraversals\01. TreeTraversals\obj\Debug\_01.TreeTraversals.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\03. Trees and traversals\TreesAndTraversals\01. TreeTraversals\obj\Debug\01. TreeTraversals.csprojResolveAssemblyReference.cache

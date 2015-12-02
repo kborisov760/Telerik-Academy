@@ -1,0 +1,6 @@
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\01. Company\bin\Debug\_01.Company.exe.config
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\01. Company\bin\Debug\_01.Company.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\01. Company\bin\Debug\_01.Company.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\01. Company\obj\Debug\01. Company.csprojResolveAssemblyReference.cache
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\01. Company\obj\Debug\_01.Company.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\01. Company\obj\Debug\_01.Company.pdb

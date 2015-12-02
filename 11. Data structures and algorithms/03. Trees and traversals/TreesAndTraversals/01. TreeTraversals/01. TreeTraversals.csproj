@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EC6F1BB5-347D-47F5-BECC-2D92827BBCAF}</ProjectGuid>
+    <ProjectGuid>{42E59F44-77B8-49DF-BEDF-B0A630536F42}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_11.LinkedListSample</RootNamespace>
-    <AssemblyName>11.LinkedListSample</AssemblyName>
+    <RootNamespace>_01.TreeTraversals</RootNamespace>
+    <AssemblyName>_01.TreeTraversals</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LinkedListSample.cs" />
+    <Compile Include="Node.cs" />
+    <Compile Include="TreeTraversals.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

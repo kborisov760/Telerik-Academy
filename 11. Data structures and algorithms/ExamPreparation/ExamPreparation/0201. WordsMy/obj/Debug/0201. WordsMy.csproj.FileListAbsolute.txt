@@ -1,0 +1,6 @@
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\0201. WordsMy\bin\Debug\_0201.WordsMy.exe.config
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\0201. WordsMy\obj\Debug\0201. WordsMy.csprojResolveAssemblyReference.cache
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\0201. WordsMy\bin\Debug\_0201.WordsMy.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\0201. WordsMy\bin\Debug\_0201.WordsMy.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\0201. WordsMy\obj\Debug\_0201.WordsMy.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\0201. WordsMy\obj\Debug\_0201.WordsMy.pdb

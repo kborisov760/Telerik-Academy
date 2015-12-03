@@ -12,7 +12,7 @@
 
             int N = int.Parse(Console.ReadLine());
 
-            HashSet<CheckableWord> wordHash = new HashSet<CheckableWord>();
+            HashSet<string> wordHash = new HashSet<string>();
 
             StringBuilder word = new StringBuilder();
 
@@ -31,33 +31,24 @@
                     }
                     else
                     {
-                        wordToAdd = word.ToString();
-                        if ((!wordHash.Any(w => w.Text == wordToAdd)) && (wordToAdd.Length > 0))
-                        {
-                            wordHash.Add(new CheckableWord(wordToAdd));
-                        }
-                        word.Clear();
 
+                        wordToAdd = word.ToString();
+                        if (wordToAdd.Length > 0)
+                        {
+                            wordHash.Add(wordToAdd);
+                        }
+
+                        word.Clear();
                     }
                 }
 
                 wordToAdd = word.ToString();
-
-                if ((!wordHash.Any(w => w.Text == wordToAdd)) && (wordToAdd.Length > 0))
+                if (wordToAdd.Length > 0)
                 {
-                    wordHash.Add(new CheckableWord(wordToAdd));
+                    wordHash.Add(wordToAdd);
                 }
-
             }
 
-            Console.WriteLine();
-
-            //foreach (var item in wordHash)
-            //{
-            //    Console.WriteLine(item.Text);
-            //}
-
-            Console.WriteLine();
 
             int M = int.Parse(Console.ReadLine());
 
@@ -69,8 +60,7 @@
                 string newSearchWord = originalSearchWord.ToLower();
                 SearchedWords.Add(String.Format("{0} -> {1}",
                     originalSearchWord,
-                    wordHash.Where(w => w.CheckIfAll(newSearchWord)).Count()));
-
+                    wordHash.Where(w => CheckIfAll(newSearchWord, w)).Count()));
             }
 
             foreach (var item in SearchedWords)
@@ -79,32 +69,18 @@
             }
         }
 
-
-        public class CheckableWord
+        public static bool CheckIfAll(string inputWord, string mainWord)
         {
-            public string Text { get; set; }
-
-            public CheckableWord(string text)
+            foreach (var symbol in inputWord)
             {
-                this.Text = text;
-            }
-
-            public bool CheckIfAll(string word)
-            {
-                foreach (var symbol in word)
+                if (!mainWord.Contains(symbol))
                 {
-                    if (!this.Text.Contains(symbol))
-                    {
-                        return false;
-                    }
+                    return false;
                 }
-
-                return true;
             }
+
+            return true;
         }
 
     }
-
-    //11.2012-Algo
-
 }

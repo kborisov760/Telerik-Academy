@@ -1,0 +1,6 @@
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\04. Portals\bin\Debug\_04.Portals.exe.config
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\04. Portals\bin\Debug\_04.Portals.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\04. Portals\bin\Debug\_04.Portals.pdb
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\04. Portals\obj\Debug\04. Portals.csprojResolveAssemblyReference.cache
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\04. Portals\obj\Debug\_04.Portals.exe
+D:\GitHub-Repositories\Telerik-Academy\11. Data structures and algorithms\ExamPreparation\ExamPreparation\04. Portals\obj\Debug\_04.Portals.pdb

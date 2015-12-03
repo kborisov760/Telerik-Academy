@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Words", "02. Words\02. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0201. WordsMy", "0201. WordsMy\0201. WordsMy.csproj", "{28C836E6-A897-4C86-95B6-E498880458FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. MostCommon", "03. MostCommon\03. MostCommon.csproj", "{BE9BBC75-EBED-481C-A6C4-1960FF5F2DBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Portals", "04. Portals\04. Portals.csproj", "{D15F8D8A-5242-4262-B4F4-F80B0330AE37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{28C836E6-A897-4C86-95B6-E498880458FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28C836E6-A897-4C86-95B6-E498880458FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28C836E6-A897-4C86-95B6-E498880458FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9BBC75-EBED-481C-A6C4-1960FF5F2DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9BBC75-EBED-481C-A6C4-1960FF5F2DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9BBC75-EBED-481C-A6C4-1960FF5F2DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9BBC75-EBED-481C-A6C4-1960FF5F2DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15F8D8A-5242-4262-B4F4-F80B0330AE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15F8D8A-5242-4262-B4F4-F80B0330AE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15F8D8A-5242-4262-B4F4-F80B0330AE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15F8D8A-5242-4262-B4F4-F80B0330AE37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

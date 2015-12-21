@@ -1,0 +1,16 @@
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.Data\bin\Debug\TicTacToe.Data.dll.config
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.Data\bin\Debug\TicTacToe.Data.dll
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.Data\bin\Debug\TicTacToe.Data.pdb
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.Data\bin\Debug\EntityFramework.dll
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.Data\bin\Debug\TicTacToe.Models.dll
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.Data\bin\Debug\TicTacToe.Models.pdb
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.Data\bin\Debug\EntityFramework.xml
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.Data\obj\Debug\TicTacToe.Data.csprojResolveAssemblyReference.cache
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.Data\obj\Debug\TicTacToe.Data.dll
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.Data\obj\Debug\TicTacToe.Data.pdb

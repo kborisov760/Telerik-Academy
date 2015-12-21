@@ -1,0 +1,5 @@
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.GameLogic\bin\Debug\TicTacToe.GameLogic.dll
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.GameLogic\bin\Debug\TicTacToe.GameLogic.pdb
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.GameLogic\obj\Debug\TicTacToe.GameLogic.csprojResolveAssemblyReference.cache
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.GameLogic\obj\Debug\TicTacToe.GameLogic.dll
+D:\GitHub-Repositories\Telerik-Academy\13. SPA Applications with AngularJS\SPA Homework\TicTacToe.GameLogic\obj\Debug\TicTacToe.GameLogic.pdb

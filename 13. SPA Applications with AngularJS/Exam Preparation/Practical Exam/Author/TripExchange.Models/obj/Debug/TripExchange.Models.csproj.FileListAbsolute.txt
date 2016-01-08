@@ -1,0 +1,14 @@
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Models\bin\Debug\TripExchange.Models.dll.config
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Models\bin\Debug\TripExchange.Models.dll
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Models\bin\Debug\TripExchange.Models.pdb
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Models\bin\Debug\EntityFramework.dll
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Models\bin\Debug\EntityFramework.xml
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Models\obj\Debug\TripExchange.Models.csprojResolveAssemblyReference.cache
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Models\obj\Debug\TripExchange.Models.dll
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Models\obj\Debug\TripExchange.Models.pdb

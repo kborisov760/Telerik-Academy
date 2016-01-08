@@ -1,0 +1,5 @@
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Common\bin\Debug\TripExchange.Common.dll
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Common\bin\Debug\TripExchange.Common.pdb
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Common\obj\Debug\TripExchange.Common.csprojResolveAssemblyReference.cache
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Common\obj\Debug\TripExchange.Common.dll
+D:\GitHub Repositories\Telerik-Academy\13. SPA Applications with AngularJS\Exam Preparation\Practical Exam\Author\TripExchange.Common\obj\Debug\TripExchange.Common.pdb

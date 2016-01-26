@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true"
+    CodeBehind="UserProfiles.master.cs" Inherits="_01.UserProfiles.UserProfiles" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>User Profiles</title>
+    <link rel="stylesheet" type="text/css" href="styles/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="styles/bootstrap-theme.min.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <nav class="navbar navbar-default">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">UserProfiles</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="Home.aspx">UserProfiles</a>
+            </div>
+            <div class="container-fluid">
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li><a href="Home.aspx">Home</a></li>
+                        <li><a href="Profile.aspx">Profile</a></li>
+                        <li><a href="Friends.aspx">Friends</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="container">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolderMain" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <script src="scripts/bootstrap.min.js"></script>
+</body>
+</html>

@@ -24,15 +24,12 @@ namespace _03.TicTacToe
                     cellInvisibleButton.Style.Add("width", "100px");
                     cellInvisibleButton.Style.Add("height", "100px");
                     cellInvisibleButton.Style.Add("visability", "hidden");
-                    //cellInvisibleButton.ID = (i + j).ToString();
-                    //cellInvisibleButton.Attributes.Add("OnClick", "UserCellSelect");
                     cellInvisibleButton.Click += UserCellSelect;
 
                     TableCell currentCell = currentRow.Cells[j];
                     currentCell.Style.Add("width", "100px");
                     currentCell.Style.Add("height", "100px");
                     currentCell.Style.Add("background-color", "green");
-                    //currentCell.ID = (i + j).ToString();
                     currentCell.Controls.Add(cellInvisibleButton);
                 }
             }
@@ -45,6 +42,7 @@ namespace _03.TicTacToe
         protected void UserCellSelect(object sender, EventArgs e)
         {
             var currentButton = sender as Button;
+            
             currentButton.Attributes.Add("class", "bgBtnX");
         }
     }
